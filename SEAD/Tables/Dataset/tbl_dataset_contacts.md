@@ -1,0 +1,16 @@
+---
+table_name: tbl_dataset_contacts
+primary_key: "[[dataset_contact_id]]"
+foreign_keys:
+  - "[[contact_id]]"
+  - "[[contact_type_id]]"
+  - "[[dataset_id]]"
+columns:
+  - "[[date_updated]]"
+connected_tables:
+  - "[[tbl_contacts]]"
+  - "[[tbl_contact_types]]"
+  - "[[tbl_datasets]]"
+---
+
+Contains information about one or more contacts related to a dataset, such as data providers or digitalisers.

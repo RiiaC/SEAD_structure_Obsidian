@@ -1,0 +1,2 @@
+.markdown-preview-view.no-subtasks .dataview.result-group ul.contains-task-list ul {
+  display: none;
