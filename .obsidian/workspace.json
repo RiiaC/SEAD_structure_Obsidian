@@ -21,10 +21,14 @@
             "id": "3091e7cf9667a5ad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Source/content/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -201,8 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0591dbc0f0571636",
+  "active": "3091e7cf9667a5ad",
   "lastOpenFiles": [
+    "Source/content/catagory-folder/index.md",
+    "Source/content/index.md",
+    "Source/content/catagory-folder/index 1.md",
     "Source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md",
     "source/content/category-folder/2011-present (Sweden)/Old posts/2020-11-10 Keldor's Tailor's story.md",
     "source/content/category-folder/2011-present (Sweden)/Old posts",
@@ -231,9 +238,6 @@
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-26 first day group training.md",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-25  tar paper.md",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-24 bookshelves passed on to new home.md",
-    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-23 kyrkoruin.md",
-    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-22 Gyllengrans event.md",
-    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-21 seger över byråkrati.md",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-10 Oct",
     "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-09 Sept",
