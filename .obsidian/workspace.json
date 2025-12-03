@@ -1,38 +1,30 @@
 {
   "main": {
-    "id": "b2aff206fd5b457c",
+    "id": "be645ffdcbe39af9",
     "type": "split",
     "children": [
       {
-        "id": "aaca638c33fa23e0",
+        "id": "ff300b52ee312008",
         "type": "tabs",
         "children": [
           {
-            "id": "7c61fc1867cceb58",
+            "id": "8b4132ba05a4a466",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Not plotted/README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "39c5ce6580db5e4a",
+            "id": "3091e7cf9667a5ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Not plotted/README.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -42,15 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f12b85c57e941a6",
+    "id": "2c7b8f1dcca0d179",
     "type": "split",
     "children": [
       {
-        "id": "765786ef73149f48",
+        "id": "88a48d9e91f7c044",
         "type": "tabs",
         "children": [
           {
-            "id": "db27aa9e23afe8aa",
+            "id": "0591dbc0f0571636",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,23 +55,13 @@
             }
           },
           {
-            "id": "ce6d42f0c53ceb4d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "6b13e15547ebb6b6",
+            "id": "a0b5dfdb96bf0407",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "file:loc",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -88,28 +70,38 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "412da4daf9dfda17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 300
   },
   "right": {
-    "id": "4f4fd69366460bd9",
+    "id": "879ef07b911e1e83",
     "type": "split",
     "children": [
       {
-        "id": "ebf1b4299985aca5",
+        "id": "6292c4b1ac100d01",
         "type": "tabs",
         "children": [
           {
-            "id": "8878ae482bf4f61c",
+            "id": "1ca59e4220c48395",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radiocarbon Data mapping/D. Site.md",
+                "file": "source/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +111,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for D. Site"
+              "title": "Backlinks for index"
             }
           },
           {
-            "id": "2775e91048141053",
+            "id": "8bb2fc7c3f95eaf7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Columns/accuracy.md",
+                "file": "source/content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from accuracy"
+              "title": "Outgoing links from index"
             }
           },
           {
-            "id": "e8e8e783e55387a0",
+            "id": "af8a23232721c3ff",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,22 +144,7 @@
             }
           },
           {
-            "id": "5fc32379c9308bfa",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Columns/accuracy.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of accuracy"
-            }
-          },
-          {
-            "id": "dee3fe674d7edcfe",
+            "id": "18ce8527889efde0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,15 +158,28 @@
             }
           },
           {
-            "id": "63910af716f32e9e",
+            "id": "706e212442bad9ba",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "outline",
               "state": {
-                "file": "Radiocarbon Data mapping/O. Source.md"
+                "file": "source/content/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-info",
-              "title": "File properties for O. Source"
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "a59e8941287a9711",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -197,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,46 +197,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39c5ce6580db5e4a",
+  "active": "0591dbc0f0571636",
   "lastOpenFiles": [
-    "Not plotted/ToDo.md",
-    "Not plotted/README.md",
-    "Radiocarbon Data mapping/READme.md",
-    "Radiocarbon Data mapping/H. δ13C.md",
-    "Radiocarbon Data mapping/G. ±.md",
-    "Radiocarbon Data mapping/F. BP.md",
-    "Radiocarbon Data mapping/E. Lab nr.md",
-    "Radiocarbon Data mapping/D. Site.md",
-    "Radiocarbon Data mapping/C. Biological Age.md",
-    "Radiocarbon Data mapping/B. Element.md",
-    "Radiocarbon Data mapping/A. Map Fig.1.md",
-    "SEAD/Columns/abbreviation.md",
-    "SEAD/Tables/Site/tbl_site_locations.md",
-    "SEAD/Columns/site_location_id.md",
-    "SEAD/Columns/location_id.md",
-    "SEAD/Tables/Location/tbl_locations.md",
-    "SEAD/Columns/site_id.md",
-    "SEAD/Tables/Site/tbl_sites.md",
-    "SEAD/Columns/national_site_identifier.md",
-    "SEAD/Columns/tbl_locations.md",
-    "SEAD/Columns/latitude_dd.md",
-    "SEAD/Columns/location_type.md",
-    "SEAD/Tables/Location/tbl_location_types.md",
-    "SEAD/Columns/default_long_dd.md",
-    "SEAD/Columns/default_lat_dd.md",
-    "SEAD/Columns/location_name.md",
-    "Radiocarbon Data mapping",
-    "SEAD/Tables/Bibliography",
-    "Not plotted",
-    "SEAD",
-    "SEAD/Tables/Untitled",
-    "SEAD/Tables/Dendro",
-    "SEAD/Tables/Measured Value",
-    "SEAD/Tables/Taxa Counts",
-    "SEAD/Tables/Geochronology",
-    "SEAD/Tables/Relative Dating"
+    "Source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md",
+    "source/content/category-folder/2011-present (Sweden)/Old posts/2020-11-10 Keldor's Tailor's story.md",
+    "source/content/category-folder/2011-present (Sweden)/Old posts",
+    "source/content/category-folder/index.md",
+    "Base/contents.base",
+    "source/content/images/2025-02-14 more stars.jpg",
+    "Base/base.md",
+    "source/content/index.md",
+    "Base",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2021-12 Dec/2025-12-01 snow and further progress.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-12-02.md",
+    "Kareina.ico",
+    "source/docs/configuration.md",
+    "README.md",
+    "source/README.md",
+    "source/CODE_OF_CONDUCT.md",
+    "source/docs/advanced/creating components.md",
+    "source/docs/advanced/architecture.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 first half year/2025-02-14 more stars.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/sortspec.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-30 more progress on the room, and kex.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-30 a pleasing Qwirkle game.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-29 a nice day ends with extra flare.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-28 the day slipped by without note.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-27 starting the day right, but the evening didn't go as planned.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-26 first day group training.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-25  tar paper.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-24 bookshelves passed on to new home.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-23 kyrkoruin.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-22 Gyllengrans event.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov/2025-11-21 seger över byråkrati.md",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-11 Nov",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-10 Oct",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-09 Sept",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2025-08 Aug",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year/2021-12 Dec",
+    "source/content/category-folder/2011-present (Sweden)/2025 second half year",
+    "source/content/images/2025-06-12 second hand store finds.jpg",
+    "source/content/images/2025-06-13 second hand close-up.jpg",
+    "source/content/images/2025-07-27_Keldor finds an old nail.jpg",
+    "source/content/images/2025-07-27_us under Stenbro.jpg",
+    "source/content/images/2025-07-27_stenbrosnål.jpg",
+    "source/content/images/2025-07-27_Stenbro-yoga.jpeg",
+    "source/content/images/2025-07-28_tak_till-ganmelsmedjan.jpg",
+    "source/content/images/2025-07-30_the se rets of Borg.jpg",
+    "source/content/images/2025-07-30_the 300g anvil.jpg"
   ]
 }
