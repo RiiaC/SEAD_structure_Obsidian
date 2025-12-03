@@ -1,17 +1,17 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "path:Source/content/catagory-folder  ",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Radiocarbon Data mapping\"  ",
+      "query": "path:\"Source/content/catagory-folder/Radiocarbon Data mapping\"  ",
       "color": {
         "a": 1,
-        "rgb": 15741747
+        "rgb": 14048348
       }
     }
   ],
@@ -20,11 +20,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7545958473691461,
-  "close": false
+  "scale": 1,
+  "close": true
 }
