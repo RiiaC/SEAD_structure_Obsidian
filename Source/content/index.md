@@ -1,7 +1,9 @@
 ---
 title: SEAD Structure
 ---
-# Welcome to the Obsidian Vault illustrating SEAD's Database Structure
+# Welcome to an illustration of SEAD's Database Structure
+*This illustration was created using the note-taking program, [Obsidian.](https://obsidian.md/), chosen for its graphical representation of the connections between notes.*
+
 >[!info] The Strategic Environmental Archaeology Database (SEAD) 
 >is a national research infrastructure for environmental archaeology data developed and managed at the Environmental Archaeology Lab (MAL) in collaboration with Humlab at Umeå University, Sweden. For more information, check out the [SEAD web page](https://www.sead.se/), or check out the [SEAD Browser](https://browser.sead.se/) to explore the data itself.
 
