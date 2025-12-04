@@ -11,10 +11,14 @@
             "id": "8b4132ba05a4a466",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/content/index.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -190,8 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a59e8941287a9711",
+  "active": "8b4132ba05a4a466",
   "lastOpenFiles": [
+    "source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md",
+    "source/content/catagory-folder/SEAD/Tables/Site/tbl_sites.md",
+    "source/content/catagory-folder/SEAD/Columns/abbreviation.md",
+    "source/content/index.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_values.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_value_type_items.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_value_classes.md",
@@ -214,10 +222,6 @@
     "source/content/catagory-folder/SEAD/Tables/Untitled/tbl_units.md",
     "source/content/catagory-folder/SEAD/Tables/Untitled/tbl_text_identification_keys.md",
     "source/content/catagory-folder/SEAD/Tables/Untitled/tbl_text_distribution.md",
-    "source/content/catagory-folder/SEAD/Tables/Untitled/tbl_season_types.md",
-    "source/content/catagory-folder/SEAD/Tables/Untitled/tbl_tephra_dates.md",
-    "source/content/catagory-folder/SEAD/Tables/Untitled/tbl_tephra_refs.md",
-    "source/content/catagory-folder/SEAD/Tables/Untitled/tbl_text_biology.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values",
     "source/content/catagory-folder/SEAD/Tables/Untitled",
     "source/content/catagory-folder/SEAD/Tables/Taxonomy",
