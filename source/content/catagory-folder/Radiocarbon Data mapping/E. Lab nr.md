@@ -1,4 +1,39 @@
-> [!info] the official lab number for the laboratory which did the analysis
+---
+example data:
+  - Hela-1329
+  - Ua-50229
+  - LuS-6133
+best matched column:
+  - "[[sample_name]]"
+---
+> [!info]  The Lab nr column 
+> Contains a combination of letters and numbers, each of which is unique, and appears to be the sample designation used by the laboratory for analysis. Therefore, it is a good match for [[sample_name]]. However, in SEAD every sample must be part of a sample group, therefore, before entering the [[sample_name]] it is first necessary to set up the corresponding sample group information and its link back to the site from which the sample was obtained.
+
+- [ ] create and fill in a sheet called **sample groups** with the following columns:
+- **system_id** This column is filled incrementally, starting with 1 and is used during the import process to keep track of the data in this sheet, and to cross-reference its connections to the other sheets.
+- **[[site_id]]** copy this information from the system_id numbers of the sites sheet (even if a given site already has a SEAD site_id). *(If it helps to keep track of which ones have been done, you can also add a column to show the corresponding **site_name** on this sheet, but it is not needed for the import process, this column is enough to connect the information for the relational part of the database.)*
+- sampling_context_id
+- method_id
+- sample_group_name
+- sample_group_description
+
+> [!info]  After the sample group information exists it is possible to create and link the information on the samples themselves.
+
+- [ ] create and fill in a sheet called **physical samples** with the following columns:
+- **system_id** This column is filled incrementally, starting with 1 and is used during the import process to keep track of the data in this sheet, and to cross-reference its connections to the other sheets.
+- **sample_group_id** copy this information from the **system_id** numbers of the **sites** sheet (even if a given site already has a SEAD [site_id](app://obsidian.md/site_id)). (_If it helps to keep track of which ones have been done, you can also add a column to show the corresponding [[site_name]] on this sheet, but it is not needed for the import process, this column is enough to connect the information for the relational part of the database._)
+- **alt_ref_type_id**
+- **sample_type_id**	
+- **sample_name**
+- **date_sampled**
+- **physical_sample_id**
+
+ 
+
+
+
+
+
 
 
 
