@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -207,7 +207,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "b53b8d881be19bc7",
+  "active": "0591dbc0f0571636",
   "lastOpenFiles": [
     "source/content/catagory-folder/SEAD/Tables/Bibliography/tbl_biblio.md",
     "source/content/catagory-folder/SEAD/Tables/Ages/index.md",
@@ -237,11 +237,11 @@
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_numerical_values.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_numerical_ranges.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_notes.md",
-    "source/content/catagory-folder/SEAD/Tables/Untitled/tbl_updates_log.md",
+    "source/content/catagory-folder/SEAD/Tables/Ungrouped/tbl_updates_log.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_integer_values.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_integer_ranges.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values",
-    "source/content/catagory-folder/SEAD/Tables/Untitled",
+    "source/content/catagory-folder/SEAD/Tables/Ungrouped",
     "source/content/catagory-folder/SEAD/Tables/Taxonomy",
     "source/content/catagory-folder/SEAD/Tables/Taxa Counts",
     "source/content/catagory-folder/SEAD/Tables/sSample",

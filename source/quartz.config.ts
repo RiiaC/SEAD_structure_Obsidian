@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import ColumnMapping from "./ColumnMapping"
 
 /**
  * Quartz 4.0 Configuration
@@ -17,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Not_plotted"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
