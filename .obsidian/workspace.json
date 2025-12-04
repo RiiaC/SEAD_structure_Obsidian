@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/catagory-folder/SEAD/Tables/Ages/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "879ef07b911e1e83",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/catagory-folder/SEAD/Tables/Ages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "source/content/index.md"
+                "file": "source/content/catagory-folder/SEAD/Tables/Ages/index.md"
               },
               "icon": "lucide-info",
               "title": "File properties for index"
@@ -209,6 +209,10 @@
   },
   "active": "b53b8d881be19bc7",
   "lastOpenFiles": [
+    "source/content/catagory-folder/SEAD/Tables/Bibliography/tbl_biblio.md",
+    "source/content/catagory-folder/SEAD/Tables/Ages/index.md",
+    "Radiocarbon Data mapping.md",
+    "source/content/index.md",
     "source/content/catagory-folder/index.md",
     "source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md",
     "source/quartz/components/ColumnMapping.tsx",
@@ -222,7 +226,6 @@
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "source/content/index.md",
     "source/content/catagory-folder/SEAD/Tables/Site/tbl_sites.md",
     "source/content/catagory-folder/SEAD/Columns/abbreviation.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_values.md",
@@ -237,9 +240,6 @@
     "source/content/catagory-folder/SEAD/Tables/Untitled/tbl_updates_log.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_integer_values.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_integer_ranges.md",
-    "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_identifiers.md",
-    "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_categorical_values.md",
-    "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_dating_ranges.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values",
     "source/content/catagory-folder/SEAD/Tables/Untitled",
     "source/content/catagory-folder/SEAD/Tables/Taxonomy",
