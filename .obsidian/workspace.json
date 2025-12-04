@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/catagory-folder/Radiocarbon Data mapping/E. Lab nr.md",
+                "file": "source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "E. Lab nr"
+              "title": "D. Site"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for D. Site"
             }
           },
           {
@@ -182,14 +181,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "source/content/catagory-folder/Radiocarbon Data mapping/E. Lab nr.md"
+                "file": "source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for E. Lab nr"
+              "title": "File properties for D. Site"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,11 +207,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "a0b5dfdb96bf0407",
+  "active": "18ce8527889efde0",
   "lastOpenFiles": [
+    "source/quartz/components/ColumnMapping.tsx",
+    "source/content/catagory-folder/SEAD/Columns/site_id.md",
+    "source/content/catagory-folder/Radiocarbon Data mapping/E. Lab nr.md",
     "source/content/catagory-folder/SEAD/Columns/sampling_context_id.md",
     "source/content/catagory-folder/SEAD/Tables/Sample Groups/tbl_sample_group_sampling_contexts.md",
-    "source/content/catagory-folder/Radiocarbon Data mapping/E. Lab nr.md",
     "source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md",
     "source/content/catagory-folder/Radiocarbon Data mapping/O. Source.md",
     "source/content/catagory-folder/Radiocarbon Data mapping/READme.md",
@@ -238,8 +239,6 @@
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_identifiers.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_categorical_values.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_dating_ranges.md",
-    "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_boolean_values.md",
-    "source/content/catagory-folder/SEAD/Tables/Untitled/tbl_years_types.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values",
     "source/content/catagory-folder/SEAD/Tables/Untitled",
     "source/content/catagory-folder/SEAD/Tables/Taxonomy",
