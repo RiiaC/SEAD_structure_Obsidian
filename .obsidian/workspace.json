@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "D. Site"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md",
+                "file": "source/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for D. Site"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -181,14 +181,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md"
+                "file": "source/content/index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for D. Site"
+              "title": "File properties for index"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -207,14 +207,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "18ce8527889efde0",
+  "active": "b53b8d881be19bc7",
   "lastOpenFiles": [
+    "source/content/catagory-folder/index.md",
+    "source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md",
     "source/quartz/components/ColumnMapping.tsx",
     "source/content/catagory-folder/SEAD/Columns/site_id.md",
     "source/content/catagory-folder/Radiocarbon Data mapping/E. Lab nr.md",
     "source/content/catagory-folder/SEAD/Columns/sampling_context_id.md",
     "source/content/catagory-folder/SEAD/Tables/Sample Groups/tbl_sample_group_sampling_contexts.md",
-    "source/content/catagory-folder/Radiocarbon Data mapping/D. Site.md",
     "source/content/catagory-folder/Radiocarbon Data mapping/O. Source.md",
     "source/content/catagory-folder/Radiocarbon Data mapping/READme.md",
     "Untitled.base",
@@ -244,7 +245,6 @@
     "source/content/catagory-folder/SEAD/Tables/Taxonomy",
     "source/content/catagory-folder/SEAD/Tables/Taxa Counts",
     "source/content/catagory-folder/SEAD/Tables/sSample",
-    "source/content/catagory-folder/SEAD/Tables/Site",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
     "source/docs/images/quartz-layout-tablet.png",
