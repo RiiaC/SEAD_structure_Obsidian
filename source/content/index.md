@@ -14,6 +14,9 @@ This page was developed as a tool for mapping new datasets to the SEAD structure
 > [!tip] One can also explore the database structure by clicking on the upper right corner of the graphical interface to expand the graph.
 > On mobile devices it takes a bit of time to open the graph, but once open, it works. 
 
+> [!warning]  in the short term, 
+> the connections between the tables and columns are only showing in the web version of the document for those which have connections mentioned in the body of the note. The links in the properties of the notes, which show in Obsidian itself, are not yet working. Therefore, right now one sees only the links for the parts of the Raidocarbon dataset that have already been mapped here. This may be a feature, not a bug.
+
 If you have any questions, you may contact me directly.
 
 --[Riia ](https://www.umu.se/en/staff/riia-chmielowski/), SEAD Project Assistant/Data Steward
