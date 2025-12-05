@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/catagory-folder/SEAD/Tables/Ages/index.md",
-                "mode": "source",
+                "file": "source/content/catagory-folder/Not_plotted/ToDo.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "ToDo"
             }
           }
         ]
@@ -207,10 +207,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "0591dbc0f0571636",
+  "active": "b53b8d881be19bc7",
   "lastOpenFiles": [
-    "source/content/catagory-folder/SEAD/Tables/Bibliography/tbl_biblio.md",
+    "source/content/catagory-folder/Radiocarbon Data mapping/O. Source.md",
+    "source/content/catagory-folder/Not_plotted/ToDo.md",
+    "source/content/catagory-folder/Not_plotted/README.md",
+    "source/README.md",
     "source/content/catagory-folder/SEAD/Tables/Ages/index.md",
+    "source/content/catagory-folder/SEAD/Tables/Bibliography/tbl_biblio.md",
     "Radiocarbon Data mapping.md",
     "source/content/index.md",
     "source/content/catagory-folder/index.md",
@@ -220,7 +224,6 @@
     "source/content/catagory-folder/Radiocarbon Data mapping/E. Lab nr.md",
     "source/content/catagory-folder/SEAD/Columns/sampling_context_id.md",
     "source/content/catagory-folder/SEAD/Tables/Sample Groups/tbl_sample_group_sampling_contexts.md",
-    "source/content/catagory-folder/Radiocarbon Data mapping/O. Source.md",
     "source/content/catagory-folder/Radiocarbon Data mapping/READme.md",
     "Untitled.base",
     "Untitled 3.base",
@@ -237,9 +240,6 @@
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_numerical_values.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_numerical_ranges.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_notes.md",
-    "source/content/catagory-folder/SEAD/Tables/Ungrouped/tbl_updates_log.md",
-    "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_integer_values.md",
-    "source/content/catagory-folder/SEAD/Tables/Analysis Values/tbl_analysis_integer_ranges.md",
     "source/content/catagory-folder/SEAD/Tables/Analysis Values",
     "source/content/catagory-folder/SEAD/Tables/Ungrouped",
     "source/content/catagory-folder/SEAD/Tables/Taxonomy",

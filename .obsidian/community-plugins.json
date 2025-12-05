@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "local-backup"
+  "local-backup",
+  "colored-text",
+  "dataview"
 ]
