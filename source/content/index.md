@@ -7,11 +7,18 @@ title: SEAD Structure
 >[!info] The Strategic Environmental Archaeology Database (SEAD) 
 >is a national research infrastructure for environmental archaeology data developed and managed at the Environmental Archaeology Lab (MAL) in collaboration with Humlab at Umeå University, Sweden. For more information, check out the [SEAD web page](https://www.sead.se/), or check out the [SEAD Browser](https://browser.sead.se/) to explore the data itself.
 
-This web page provides a graphical representation of the structure of the SEAD database, with a note for every table and column in the database itself with links showing which columns are part of what tables.
+This web page provides a graphical representation of the structure of the SEAD database, with a note for every table and column in the database itself with links showing which columns are part of what tables. This page is intended to be a compliment to the [official public record for the SEAD database schema.](https://humlab-sead.github.io/sead-schema/)
 
-In addition, there is another set of notes for mapping the [[Radiocarbon Data mapping/]] in preparation for importation into SEAD. These notes are still in progress, but serve as a record of how the mapping is progressing, and thus will be available later for training others in the process of mapping a new dataset to SEAD.
+This page was developed as a tool for mapping new datasets to the SEAD structure. The Radiocarbon Data folder is the first test of this tool, and is being used to document the workflow process. Each note in that folder describes a specific column in the example radiocarbon dataset spreadsheet we were provided by the researcher. As these columns are mapped to the SEAD structure, they are linked to the appropriate tables and columns in the SEAD folder. This part of the project is a work in progress (slightly delayed by the need to learn how to use [Quartz](https://quartz.jzhao.xyz/) to convert the Obsidian vault to this web page) and will be updated regularly as work progresses.
 
-> [!tip] One can explore the database structure by clicking on the upper right corner of the graphical interface to expand the graph, and dive in that way. On mobile devices it takes a bit of time to open the graph, but once open, it works.
+> [!tip] One can explore the database structure by clicking on the upper right corner of the graphical interface to expand the graph.
+> On mobile devices it takes a bit of time to open the graph, but once open, it works. 
+> Due to the below list of the tables on this page, the zoomed out version of the graph shows that everything in SEAD links to this page, which makes a ball-shaped graph. Zooming in will reveal the actual connections between the various tables and columns of the database.
+
+If you have any questions, you may contact me directly.
+
+--[Riia ](https://www.umu.se/en/staff/riia-chmielowski/) 
+2025-12-05
 
 # The full list of SEAD tables and their primary keys
 
