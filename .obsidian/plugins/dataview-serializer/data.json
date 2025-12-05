@@ -1,0 +1,10 @@
+{
+  "foldersToScan": [
+    "source/content"
+  ],
+  "ignoredFolders": [
+    "source/docs",
+    "source/quartz",
+    "source/raw_html"
+  ]
+}

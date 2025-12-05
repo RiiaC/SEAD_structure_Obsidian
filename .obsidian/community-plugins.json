@@ -2,5 +2,6 @@
   "obsidian-git",
   "local-backup",
   "colored-text",
-  "dataview"
+  "dataview",
+  "dataview-serializer"
 ]
