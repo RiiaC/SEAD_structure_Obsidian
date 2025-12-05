@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/catagory-folder/Not_plotted/ToDo.md",
-                "mode": "source",
+                "file": "source/content/index.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "index"
             }
           }
         ]
@@ -209,12 +209,12 @@
   },
   "active": "b53b8d881be19bc7",
   "lastOpenFiles": [
-    "source/content/catagory-folder/Radiocarbon Data mapping/O. Source.md",
+    "source/content/catagory-folder/SEAD/Tables/Bibliography/tbl_biblio.md",
     "source/content/catagory-folder/Not_plotted/ToDo.md",
+    "source/content/catagory-folder/Radiocarbon Data mapping/O. Source.md",
     "source/content/catagory-folder/Not_plotted/README.md",
     "source/README.md",
     "source/content/catagory-folder/SEAD/Tables/Ages/index.md",
-    "source/content/catagory-folder/SEAD/Tables/Bibliography/tbl_biblio.md",
     "Radiocarbon Data mapping.md",
     "source/content/index.md",
     "source/content/catagory-folder/index.md",
