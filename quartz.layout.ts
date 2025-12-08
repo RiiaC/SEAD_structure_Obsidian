@@ -8,7 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
+      "SEAD Browser": "https://browser.sead.se/"
+	  "SEAD Introduction": "https://www.sead.se/"
+	  "sead_staging.public": "https://humlab-sead.github.io/sead-schema/"
+	  GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
