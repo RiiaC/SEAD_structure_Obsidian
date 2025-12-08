@@ -21,12 +21,14 @@
             "id": "d8928fd75e0a5056",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Radiocarbon data column C.png"
+                "file": "content/SEAD/index.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Radiocarbon data column C"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -218,8 +220,11 @@
   },
   "active": "d8928fd75e0a5056",
   "lastOpenFiles": [
-    "images/Radiocarbon data column D.png",
+    "content/index.md",
+    "content/SEAD/index.md",
+    "content/Radiocarbon Data mapping/index.md",
     "images/Radiocarbon data column C.png",
+    "images/Radiocarbon data column D.png",
     "images/Radiocarbon data column B.png",
     "docs/images/giscus-results.png",
     "docs/images/giscus-example.png",
@@ -234,7 +239,6 @@
     "docs/authoring content.md",
     "content/Radiocarbon Data mapping/A. Map Fig.1.md",
     "docs/build.md",
-    "public/index-og-image.webp",
     "public/SEAD/Tables/Ungrouped/tbl_text_distribution.html",
     "public/SEAD/Tables/Ungrouped/tbl_text_biology.html",
     "public/SEAD/Tables/Ungrouped/tbl_tephras.html",
@@ -261,8 +265,6 @@
     "content/SEAD/Tables/Taxonomy/tbl_taxa_images.md",
     "content/SEAD/Tables/Taxonomy/tbl_taxa_common_names.md",
     "content/SEAD/Tables/Taxonomy/tbl_species_association_types.md",
-    "content/SEAD/Tables/Ungrouped/tbl_years_types.md",
-    "content/SEAD/Tables/Taxonomy/tbl_activity_types.md",
-    "content/SEAD/Tables/Taxonomy/tbl_species_associations.md"
+    "content/SEAD/Tables/Ungrouped/tbl_years_types.md"
   ]
 }
