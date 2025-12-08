@@ -3,5 +3,6 @@
   "local-backup",
   "colored-text",
   "dataview",
-  "dataview-serializer"
+  "dataview-serializer",
+  "obsidian-linter"
 ]

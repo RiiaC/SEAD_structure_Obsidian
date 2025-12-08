@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Not_plotted/index.md",
+                "file": "source/content/SEAD/Tables/Provenance/tbl_method_groups.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "tbl_method_groups"
             }
           }
         ],
@@ -192,14 +192,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "source/content/catagory-folder/SEAD/Tables/Ages/index.md"
+                "file": "source/content/SEAD/Tables/Provenance/tbl_method_groups.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for tbl_method_groups"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -218,39 +218,39 @@
       "templates:Insert template": false
     }
   },
-  "active": "0591dbc0f0571636",
+  "active": "d8928fd75e0a5056",
   "lastOpenFiles": [
+    "source/content/SEAD/Tables/Provenance/tbl_methods.md",
+    "source/content/SEAD/Tables/Provenance/tbl_method_groups.md",
+    "source/content/SEAD/Tables/Ecocode/tbl_ecocode_definitions.md",
+    "source/content/SEAD/Tables/Dendro/tbl_dendro.md",
+    "source/content/SEAD/Tables/Dendro/tbl_dendro_lookup.md",
+    "source/content/SEAD/Tables/Dendro/tbl_dendro_dates.md",
+    "source/content/SEAD/Tables/Dataset/tbl_datasets.md",
+    "source/content/SEAD/Tables/Dataset/tbl_dataset_submisssion.md",
+    "source/content/SEAD/Tables/Dataset/tbl_dataset_submission_types.md",
+    "source/content/SEAD/Tables/Dataset/tbl_dataset_methods.md",
+    "source/content/SEAD/Tables/Dataset/tbl_dataset_masters.md",
+    "source/content/SEAD/Tables/Dataset/tbl_dataset_contacts.md",
+    "source/content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
+    "source/content/SEAD/Tables/Ages/tbl_chronologies.md",
+    "source/content/SEAD/Tables/Taxa Counts/tbl_abundance_ident_levels.md",
+    "source/content/SEAD/Columns/abundance_element_id.md",
+    "source/content/Radiocarbon Data mapping/E. Lab nr.md",
+    "source/content/SEAD/Tables/Ages/index.md",
+    "source/docs/features/upcoming features.md",
+    "source/content/SEAD/Columns/abundance.md",
+    "source/content/SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
+    "source/content/index.md",
+    "source/content/Not_plotted/index.md",
     "source/content/Radiocarbon Data mapping/index.md",
     "source/content/SEAD/index.md",
-    "source/content/index.md",
     "source/content/SEAD/Tables/Site/tbl_sites.md",
-    "source/content/SEAD/Tables/Ages/index.md",
-    "source/content/Radiocarbon Data mapping/D. Site.md",
-    "source/docs/advanced/architecture.md",
-    "source/docs/plugins/AliasRedirects.md",
-    "source/content/SEAD/Tables/Taxa Counts/tbl_abundance_ident_levels.md",
-    "source/content/SEAD/Columns/abbreviation.md",
-    "source/content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
-    "source/content/Not_plotted/date_updated.md",
-    "Untitled.md",
-    "source/content/SEAD/Tables/Analysis Values/tbl_value_classes.md",
-    "source/content/SEAD/Columns/abundance_element_id.md",
-    "source/content/SEAD/Tables/Bibliography/tbl_biblio.md",
-    "source/content/Not_plotted/ToDo.md",
-    "source/content/Radiocarbon Data mapping/O. Source.md",
-    "source/content/Not_plotted/index.md",
-    "source/README.md",
-    "Radiocarbon Data mapping.md",
     "source/quartz/components/ColumnMapping.tsx",
-    "source/content/SEAD/Columns/site_id.md",
-    "source/content/Radiocarbon Data mapping/E. Lab nr.md",
-    "source/content/SEAD/Columns/sampling_context_id.md",
-    "source/content/SEAD/Tables/Sample Groups/tbl_sample_group_sampling_contexts.md",
     "Untitled.base",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "source/content/SEAD/Tables/Analysis Values/tbl_analysis_values.md",
     "source/content/SEAD/Tables/Analysis Values",
     "source/content/SEAD/Tables/Ungrouped",
     "source/content/SEAD/Tables/Taxonomy",

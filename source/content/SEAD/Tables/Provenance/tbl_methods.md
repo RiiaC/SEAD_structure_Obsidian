@@ -17,6 +17,7 @@ connected_tables:
   - "[[tbl_method_groups]]"
   - "[[tbl_record_types]]"
   - "[[tbl_units]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 
 Contains definitions and details of various analysis methods.

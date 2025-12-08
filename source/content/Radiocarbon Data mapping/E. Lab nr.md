@@ -5,6 +5,7 @@ example data:
   - LuS-6133
 best matched column:
   - "[[sample_name]]"
+date created: Friday, September 26th 2025, 12:46:49 pm
 ---
 > [!info]  The Lab nr column 
 > Contains a combination of letters and numbers, each of which is unique, and appears to be the sample designation used by the laboratory for analysis. Therefore, it is a good match for [[sample_name]]. However, in SEAD every sample must be part of a sample group, therefore, before entering the [[sample_name]] it is first necessary to set up the corresponding sample group information and its link back to the site from which the sample was obtained.
