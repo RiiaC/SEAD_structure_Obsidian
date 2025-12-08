@@ -21,14 +21,12 @@
             "id": "d8928fd75e0a5056",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/build.md",
-                "mode": "preview",
-                "source": true
+                "file": "images/Radiocarbon data column C.png"
               },
-              "icon": "lucide-file",
-              "title": "build"
+              "icon": "lucide-image",
+              "title": "Radiocarbon data column C"
             }
           }
         ],
@@ -218,8 +216,35 @@
       "templates:Insert template": false
     }
   },
-  "active": "0591dbc0f0571636",
+  "active": "d8928fd75e0a5056",
   "lastOpenFiles": [
+    "images/Radiocarbon data column D.png",
+    "images/Radiocarbon data column C.png",
+    "images/Radiocarbon data column B.png",
+    "docs/images/giscus-results.png",
+    "docs/images/giscus-example.png",
+    "docs/images/giscus-repo.png",
+    "docs/images/giscus-discussion.png",
+    "docs/images/dns records.png",
+    "docs/images/custom-social-image-preview-light.png",
+    "docs/images/custom-social-image-preview-dark.png",
+    "docs/upgrading.md",
+    "docs/index.md",
+    "docs/configuration.md",
+    "docs/authoring content.md",
+    "content/Radiocarbon Data mapping/A. Map Fig.1.md",
+    "docs/build.md",
+    "public/index-og-image.webp",
+    "public/SEAD/Tables/Ungrouped/tbl_text_distribution.html",
+    "public/SEAD/Tables/Ungrouped/tbl_text_biology.html",
+    "public/SEAD/Tables/Ungrouped/tbl_tephras.html",
+    "public/SEAD/Tables/Ungrouped/tbl_tephra_refs.html",
+    "public/SEAD/Tables/Ungrouped/tbl_tephra_dates.html",
+    "public/SEAD/Tables/Ungrouped/tbl_temperatures.html",
+    "public/SEAD/Tables/Ungrouped/tbl_taxonomy_notes.html",
+    "public/SEAD/Tables/Ungrouped/tbl_seasons.html",
+    "public/SEAD/Tables/Ungrouped/tbl_season_types.html",
+    "public/SEAD/Tables/Ungrouped/tbl_sample_location_type_sampling_contexts.html",
     "source/content/index.md",
     "content/SEAD/Tables/Taxonomy/tbl_taxa_tree_master.md",
     "content/SEAD/Tables/Taxonomy/tbl_taxonomic_order_systems.md",
@@ -238,33 +263,6 @@
     "content/SEAD/Tables/Taxonomy/tbl_species_association_types.md",
     "content/SEAD/Tables/Ungrouped/tbl_years_types.md",
     "content/SEAD/Tables/Taxonomy/tbl_activity_types.md",
-    "content/SEAD/Tables/Taxonomy/tbl_species_associations.md",
-    "content/SEAD/Tables/Ungrouped/tbl_value_qualifier_symbols.md",
-    "content/SEAD/Tables/Ungrouped/tbl_value_qualifiers.md",
-    "content/SEAD/Tables/Ungrouped/tbl_units.md",
-    "content/SEAD/Tables/Ungrouped/tbl_text_identification_keys.md",
-    "content/SEAD/Tables/Ungrouped/tbl_updates_log.md",
-    "content/SEAD/Tables/Ungrouped/tbl_text_distribution.md",
-    "content/SEAD/Tables/Ungrouped/tbl_text_biology.md",
-    "content/SEAD/Tables/Taxonomy",
-    "content/SEAD/Tables/Ungrouped",
-    "content/SEAD/Tables/Taxa Counts",
-    "content/SEAD/Tables/sSample",
-    "content/SEAD/Tables/Site",
-    "content/SEAD/Tables/Provenance",
-    "content/SEAD/Tables/Sample Groups",
-    "content/SEAD/Tables/RDB",
-    "content/SEAD/Tables/Relative Dating",
-    "content/SEAD/Tables/Project",
-    "public/static/og-image.png",
-    "public/static/icon.png",
-    "docs/images/social-image-preview-light.png",
-    "docs/images/quartz-layout-tablet.png",
-    "docs/images/social-image-preview-dark.png",
-    "docs/images/quartz-layout-desktop.png",
-    "docs/images/github-quick-setup.png",
-    "docs/images/quartz-layout-mobile.png",
-    "docs/images/github-init-repo-options.png",
-    "docs/images/quartz transform pipeline.png"
+    "content/SEAD/Tables/Taxonomy/tbl_species_associations.md"
   ]
 }
