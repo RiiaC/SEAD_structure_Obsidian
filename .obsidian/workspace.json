@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/docs/plugins/ComponentResources.md",
+                "file": "docs/build.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ComponentResources"
+              "title": "build"
             }
           }
         ],
@@ -192,10 +192,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "source/docs/plugins/ComponentResources.md"
+                "file": "docs/build.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ComponentResources"
+              "title": "File properties for build"
             }
           }
         ],
@@ -220,6 +220,8 @@
   },
   "active": "d8928fd75e0a5056",
   "lastOpenFiles": [
+    "docs/hosting.md",
+    "source/docs/plugins/ComponentResources.md",
     "docs/tags/component.md",
     "docs/tags/plugin.md",
     "docs/tags",
@@ -245,8 +247,6 @@
     "docs/plugins/CreatedModifiedDate.md",
     "docs/plugins/CrawlLinks.md",
     "docs/plugins/ContentPage.md",
-    "docs/plugins/ContentIndex.md",
-    "docs/plugins/CNAME.md",
     "docs/plugins",
     "docs/images/social-image-preview-light.png",
     "docs/images/quartz-layout-tablet.png",
