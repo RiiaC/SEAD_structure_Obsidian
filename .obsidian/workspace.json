@@ -220,6 +220,7 @@
   },
   "active": "d8928fd75e0a5056",
   "lastOpenFiles": [
+    "package-lock.json",
     "source/content/SEAD/Tables/Provenance/tbl_methods.md",
     "source/content/SEAD/Tables/Provenance/tbl_method_groups.md",
     "source/content/SEAD/Tables/Ecocode/tbl_ecocode_definitions.md",
@@ -245,7 +246,6 @@
     "source/content/Not_plotted/index.md",
     "source/content/Radiocarbon Data mapping/index.md",
     "source/content/SEAD/index.md",
-    "source/content/SEAD/Tables/Site/tbl_sites.md",
     "source/quartz/components/ColumnMapping.tsx",
     "Untitled.base",
     "Untitled 3.base",
