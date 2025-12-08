@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/docs/features/explorer.md",
+                "file": "content/index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "explorer"
+              "title": "index"
             }
           }
         ],
@@ -218,8 +218,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "0591dbc0f0571636",
+  "active": "d8928fd75e0a5056",
   "lastOpenFiles": [
+    "source/docs/features/explorer.md",
     "node_modules/@xmldom/xmldom/readme.md",
     "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
     "content/SEAD/Columns/index.md",
@@ -264,7 +265,6 @@
     "content/SEAD/Tables/Taxonomy/tbl_taxonomic_order_systems.md",
     "content/SEAD/Tables/Taxonomy/tbl_taxonomic_order.md",
     "content/SEAD/Tables/Taxonomy/tbl_taxonomic_order_biblio.md",
-    "content/SEAD/Tables/Taxonomy/tbl_taxa_tree_orders.md",
-    "content/SEAD/Tables/Taxonomy/tbl_taxa_tree_genera.md"
+    "content/SEAD/Tables/Taxonomy/tbl_taxa_tree_orders.md"
   ]
 }
