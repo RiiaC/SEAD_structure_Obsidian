@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
-                "mode": "preview",
+                "file": "content/Radiocarbon Data mapping/O. Source.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "O. Source"
             }
           }
         ],
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,17 +220,31 @@
   },
   "active": "d8928fd75e0a5056",
   "lastOpenFiles": [
+    "content/index.md",
+    "public/index-og-image.webp",
+    "public/SEAD/index-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_types-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_notes-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_locations-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_location_types-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_images-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_horizons-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_dimensions-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_descriptions-og-image.webp",
+    "public/SEAD/Tables/Ungrouped/tbl_years_types.html",
+    "public/SEAD/Tables/Ungrouped/tbl_value_qualifiers.html",
+    "public/SEAD/Tables/Ungrouped/tbl_value_qualifier_symbols.html",
+    "public/SEAD/Tables/Ungrouped/tbl_tephra_refs.html",
+    "public/SEAD/Tables/Ungrouped/tbl_updates_log.html",
+    "public/SEAD/Tables/Ungrouped/tbl_units.html",
+    "public/SEAD/Tables/Ungrouped/tbl_text_identification_keys.html",
+    "public/SEAD/Tables/Ungrouped/tbl_tephra_dates.html",
+    "public/SEAD/Tables/Ungrouped/tbl_text_distribution.html",
+    "public/SEAD/Tables/Ungrouped/tbl_text_biology.html",
     "source/docs/features/explorer.md",
     "node_modules/@xmldom/xmldom/readme.md",
     "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
     "content/SEAD/Columns/index.md",
-    "public/static/contentIndex.json",
-    "public/index.xml",
-    "public/sitemap.xml",
-    "public/tags/index.html",
-    "public/tags",
-    "public/SEAD/index.html",
-    "public/SEAD/Tables/index.html",
     "content/SEAD/Tables/Ages/index.md",
     "content/SEAD/Tables/index.md",
     "content/Radiocarbon Data mapping/index.md",
@@ -239,23 +253,9 @@
     "source/docs/authoring content.md",
     "content/SEAD/index.md",
     "docs/build.md",
-    "public/Radiocarbon-Data-mapping/J.-±.html",
-    "public/Radiocarbon-Data-mapping/L.-to-1σ-og-image.webp",
-    "public/Radiocarbon-Data-mapping/O.-Source.html",
-    "public/Radiocarbon-Data-mapping/O.-Source-og-image.webp",
-    "public/Radiocarbon-Data-mapping/N.to-2σ.html",
-    "public/Radiocarbon-Data-mapping/N.to-2σ-og-image.webp",
-    "public/Radiocarbon-Data-mapping/M.from-2σ-og-image.webp",
-    "public/Radiocarbon-Data-mapping/J.-±-og-image.webp",
-    "public/Radiocarbon-Data-mapping/E.-Lab-nr-og-image.webp",
-    "public/Radiocarbon-Data-mapping/K.-from-1σ-og-image.webp",
-    "public/Radiocarbon-Data-mapping/index-og-image.webp",
-    "public/Radiocarbon-Data-mapping/I.-R(t)-og-image.webp",
-    "public/Radiocarbon-Data-mapping/H.-δ13C-og-image.webp",
     "content/SEAD/Columns/ecocode_system_id.md",
     "content/SEAD/Columns/element_description.md",
     "content/SEAD/Columns/element_name.md",
-    "content/index.md",
     "docs/upgrading.md",
     "docs/index.md",
     "docs/configuration.md",
@@ -264,7 +264,6 @@
     "content/SEAD/Tables/Taxonomy/tbl_taxa_tree_master.md",
     "content/SEAD/Tables/Taxonomy/tbl_taxonomic_order_systems.md",
     "content/SEAD/Tables/Taxonomy/tbl_taxonomic_order.md",
-    "content/SEAD/Tables/Taxonomy/tbl_taxonomic_order_biblio.md",
-    "content/SEAD/Tables/Taxonomy/tbl_taxa_tree_orders.md"
+    "content/SEAD/Tables/Taxonomy/tbl_taxonomic_order_biblio.md"
   ]
 }
