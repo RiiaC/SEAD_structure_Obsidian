@@ -9,4 +9,4 @@ date created: Friday, September 26th 2025, 12:46:49 pm
 
 
 
-![[images/Radiocarbon data column I.png]]
+![[Radiocarbon data column I.png]]

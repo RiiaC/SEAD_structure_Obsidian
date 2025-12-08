@@ -9,6 +9,6 @@ date created: Friday, September 26th 2025, 12:46:49 pm
 >  - 0-3 m (probably months) 
 >  - 3-10 m, or nd (presumably "not determined") 
 
-![[images/Radiocarbon data column C.png]]
+![[Radiocarbon data column C.png]]
 
 

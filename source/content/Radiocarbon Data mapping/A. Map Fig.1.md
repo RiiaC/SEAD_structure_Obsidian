@@ -5,6 +5,7 @@ example data:
   - "3"
 best matched column:
   - n/a
+date created: Monday, September 22nd 2025, 2:24:16 pm
 ---
 > [!info]  The __ column
 > Contains...
