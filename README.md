@@ -1,3 +1,6 @@
+---
+date created: Wednesday, December 3rd 2025, 6:36:55 pm
+---
 # Obsidian / Quartz / GitHub Pages Template
 
 Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template

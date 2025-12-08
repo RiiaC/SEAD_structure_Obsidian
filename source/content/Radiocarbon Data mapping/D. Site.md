@@ -4,11 +4,14 @@ example data:
   - Hemmor
   - Trørød
 best matched column: "[[site_name]]"
+date created: Friday, September 26th 2025, 12:46:49 pm
 ---
 > [!info] The Site column 
 > Contains the names of the archaeological sites which contributed samples to the project. 
 >  Therefore, it is a good match for [[site_name]], which is a part of [[tbl_sites]]. 
- 
+
+![[images/Radiocarbon data column D.png]]
+
  - [ ] create and fill in a sheet called **sites** in the [radiocarbon_Glykou_etal_2021_input.xlsx spreadsheet]([radiocarbon_Glykou_etal_2021_input.xlsx](https://umeauniversity.sharepoint.com/:x:/r/sites/SEAD72/Shared%20Documents/Task%20force%20-%20System%20analysis%20of%20radiocarbon%20data/Datasets/AFL/input-data/radiocarbon_Glykou_etal_2021_input.xlsx?d=w34fa6e11a37c4afe9398f92ea68bd11c&csf=1&web=1&e=LaDqOd)) with the following columns
  - **system_id** This column is filled incrementally, starting with 1 and is used during the import process to keep track of the data in this sheet, and to cross-reference its connections to the other sheets.
  - **altitude** *This data set has no altitude information, so this column is left blank*

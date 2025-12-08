@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/SEAD/Tables/Provenance/tbl_method_groups.md",
+                "file": "source/content/Radiocarbon Data mapping/A. Map Fig.1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tbl_method_groups"
+              "title": "A. Map Fig.1"
             }
           }
         ],
@@ -192,14 +192,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "source/content/SEAD/Tables/Provenance/tbl_method_groups.md"
+                "file": "source/content/Radiocarbon Data mapping/A. Map Fig.1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for tbl_method_groups"
+              "title": "File properties for A. Map Fig.1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -218,53 +218,53 @@
       "templates:Insert template": false
     }
   },
-  "active": "d8928fd75e0a5056",
+  "active": "a59e8941287a9711",
   "lastOpenFiles": [
-    "package-lock.json",
-    "source/content/SEAD/Tables/Provenance/tbl_methods.md",
+    "source/content/Radiocarbon Data mapping/C. Biological Age.md",
+    "source/content/Radiocarbon Data mapping/B. Element.md",
+    "source/content/SEAD/Columns/element_description.md",
+    "source/content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
+    "source/content/Not_plotted/templates/template data mapping.md",
+    "source/content/Radiocarbon Data mapping/A. Map Fig.1.md",
+    "2025-12-08.md",
+    "source/content/Radiocarbon Data mapping/D. Site.md",
+    "source/content/Radiocarbon Data mapping/O. Source.md",
+    "images/Radiocarbon data column O.png",
+    "images/Radiocarbon data column N.png",
+    "images/Radiocarbon data column M.png",
+    "source/content/Radiocarbon Data mapping/N.to 2σ.md",
+    "images/Radiocarbon data column L.png",
+    "source/content/Radiocarbon Data mapping/M.from 2σ.md",
+    "images/Radiocarbon data column K.png",
+    "source/content/Radiocarbon Data mapping/L. to 1σ.md",
+    "images/Radiocarbon data column J.png",
+    "source/content/Radiocarbon Data mapping/K. from 1σ.md",
+    "images/Radiocarbon data column I.png",
+    "source/content/Radiocarbon Data mapping/J. ±.md",
+    "images/Radiocarbon data column A.png",
+    "source/content/Radiocarbon Data mapping/I. R(t).md",
+    "images/Radiocarbon data column H.png",
+    "images/Radiocarbon data column G.png",
+    "source/content/Radiocarbon Data mapping/H. δ13C.md",
+    "README.md",
+    "source/content/Radiocarbon Data mapping/G. ±.md",
+    "source/content/Radiocarbon Data mapping/F. BP.md",
+    "source/content/Radiocarbon Data mapping/E. Lab nr.md",
+    "images",
+    "source/docs/setting up your GitHub repository.md",
     "source/content/SEAD/Tables/Provenance/tbl_method_groups.md",
+    "public/source/content/SEAD/Columns/default_lat_dd.html",
+    "public/source/content/SEAD/Columns/dating_uncertainty_id.html",
+    "public/source/content/SEAD/Columns/dating_specifier.html",
+    "public/source/content/SEAD/Columns/dating_lab_id.html",
+    "public/source/content/SEAD/Columns/dating_material_id.html",
+    "public/source/content/SEAD/Columns/date_taken.html",
+    "public/source/content/SEAD/Columns/date_submitted.html",
+    "public/source/content/SEAD/Columns/dataset_method_id.html",
+    "public/source/content/SEAD/Columns/dataset_id.html",
+    "source/content/SEAD/Tables/Provenance/tbl_methods.md",
     "source/content/SEAD/Tables/Ecocode/tbl_ecocode_definitions.md",
     "source/content/SEAD/Tables/Dendro/tbl_dendro.md",
-    "source/content/SEAD/Tables/Dendro/tbl_dendro_lookup.md",
-    "source/content/SEAD/Tables/Dendro/tbl_dendro_dates.md",
-    "source/content/SEAD/Tables/Dataset/tbl_datasets.md",
-    "source/content/SEAD/Tables/Dataset/tbl_dataset_submisssion.md",
-    "source/content/SEAD/Tables/Dataset/tbl_dataset_submission_types.md",
-    "source/content/SEAD/Tables/Dataset/tbl_dataset_methods.md",
-    "source/content/SEAD/Tables/Dataset/tbl_dataset_masters.md",
-    "source/content/SEAD/Tables/Dataset/tbl_dataset_contacts.md",
-    "source/content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
-    "source/content/SEAD/Tables/Ages/tbl_chronologies.md",
-    "source/content/SEAD/Tables/Taxa Counts/tbl_abundance_ident_levels.md",
-    "source/content/SEAD/Columns/abundance_element_id.md",
-    "source/content/Radiocarbon Data mapping/E. Lab nr.md",
-    "source/content/SEAD/Tables/Ages/index.md",
-    "source/docs/features/upcoming features.md",
-    "source/content/SEAD/Columns/abundance.md",
-    "source/content/SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
-    "source/content/index.md",
-    "source/content/Not_plotted/index.md",
-    "source/content/Radiocarbon Data mapping/index.md",
-    "source/content/SEAD/index.md",
-    "source/quartz/components/ColumnMapping.tsx",
-    "Untitled.base",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "source/content/SEAD/Tables/Analysis Values",
-    "source/content/SEAD/Tables/Ungrouped",
-    "source/content/SEAD/Tables/Taxonomy",
-    "source/content/SEAD/Tables/Taxa Counts",
-    "source/content/SEAD/Tables/sSample",
-    "source/quartz/static/og-image.png",
-    "source/quartz/static/icon.png",
-    "source/docs/images/quartz-layout-tablet.png",
-    "source/docs/images/quartz-layout-mobile.png",
-    "source/docs/images/quartz transform pipeline.png",
-    "source/docs/images/quartz-layout-desktop.png",
-    "source/docs/images/giscus-results.png",
-    "source/docs/images/github-init-repo-options.png",
-    "source/docs/images/github-quick-setup.png",
-    "source/docs/images/giscus-repo.png"
+    "source/content/SEAD/Tables/Dendro/tbl_dendro_lookup.md"
   ]
 }

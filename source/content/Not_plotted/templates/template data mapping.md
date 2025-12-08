@@ -3,7 +3,8 @@ example data:
   - 
   - 
   - 
-best matched column: 
+best matched column:
+date created: Wednesday, December 3rd 2025, 4:48:48 pm
 ---
 > [!info]  The __ column
 > Contains...
