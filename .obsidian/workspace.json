@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Radiocarbon Data mapping/index.md",
                 "mode": "preview",
                 "source": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Radiocarbon Data mapping/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/index.md"
+                "file": "content/Radiocarbon Data mapping/index.md"
               },
               "icon": "lucide-info",
               "title": "File properties for index"
@@ -248,6 +248,7 @@
   },
   "active": "611ab278c0e31fe6",
   "lastOpenFiles": [
+    "content/index.md",
     "content/Radiocarbon Data mapping/M.from 2σ.md",
     "content/Radiocarbon Data mapping/L. to 1σ.md",
     "content/Radiocarbon Data mapping/K. from 1σ.md",
