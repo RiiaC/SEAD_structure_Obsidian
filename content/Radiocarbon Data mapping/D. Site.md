@@ -4,6 +4,8 @@ example data:
   - Hemmor
   - Trørød
 best matched column: "[[site_name]]"
+aliases:
+  - D.
 date created: Friday, September 26th 2025, 12:46:49 pm
 ---
 > [!info] The Site column 

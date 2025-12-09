@@ -1,4 +1,6 @@
 ---
+aliases:
+  - G.
 date created: Friday, September 26th 2025, 12:46:49 pm
 ---
 > [!info] the margin of error in terms of years ± the given BP date

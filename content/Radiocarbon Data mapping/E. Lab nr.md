@@ -5,6 +5,8 @@ example data:
   - LuS-6133
 best matched column:
   - "[[sample_name]]"
+aliases:
+  - E.
 date created: Friday, September 26th 2025, 12:46:49 pm
 ---
 > [!info]  The Lab nr column 

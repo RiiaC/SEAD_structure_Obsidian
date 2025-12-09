@@ -4,6 +4,8 @@ example data:
   - Femur
   - Mandibula 
 best matched column:
+aliases:
+  - B.
 date created: Monday, September 22nd 2025, 2:26:42 pm
 ---
 > [!info] Element

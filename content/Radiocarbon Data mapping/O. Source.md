@@ -6,6 +6,8 @@ example data:
 best matched column:
   - "[[authors]]"
   - "[[year]]"
+aliases:
+  - O.
 date created: Friday, September 26th 2025, 12:51:21 pm
 ---
 > [!info] The Source column
