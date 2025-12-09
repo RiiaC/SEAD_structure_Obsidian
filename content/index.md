@@ -16,7 +16,7 @@ This page was developed as a tool for mapping new datasets to the SEAD structure
 > On mobile devices it takes a bit of time to open the graph, but once open, it works. 
 
 > [!warning]  Graph View 
-> The web version of the graph view shows the connections between the Radiocarbon Data mapping 
+> The current web version of the graph view shows only the connections between the Radiocarbon Data mapping files that have already been mapped and the SEAD structure
 
 If you have any questions, you may contact me directly.
 

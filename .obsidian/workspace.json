@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Radiocarbon Data mapping/M.from 2σ.md",
+                "file": "content/index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "M.from 2σ"
+              "title": "index"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Radiocarbon Data mapping/M.from 2σ.md",
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of M.from 2σ"
+              "title": "Outline of index"
             }
           },
           {
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/Radiocarbon Data mapping/M.from 2σ.md"
+                "file": "content/index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for M.from 2σ"
+              "title": "File properties for index"
             }
           }
         ],
@@ -246,11 +246,11 @@
       }
     ]
   },
-  "active": "a59e8941287a9711",
+  "active": "611ab278c0e31fe6",
   "lastOpenFiles": [
+    "content/Radiocarbon Data mapping/M.from 2σ.md",
     "content/Radiocarbon Data mapping/L. to 1σ.md",
     "content/Radiocarbon Data mapping/K. from 1σ.md",
-    "content/Radiocarbon Data mapping/M.from 2σ.md",
     "content/Radiocarbon Data mapping/N.to 2σ.md",
     "content/Radiocarbon Data mapping/O. Source.md",
     "content/Radiocarbon Data mapping/J. ±.md",
