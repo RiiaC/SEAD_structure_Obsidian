@@ -1,4 +1,8 @@
 ---
+example data:
+  - "60"
+  - "38"
+  - "100"
 aliases:
   - G.
 date created: Friday, September 26th 2025, 12:46:49 pm

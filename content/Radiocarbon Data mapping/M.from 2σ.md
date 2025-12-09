@@ -1,10 +1,14 @@
 ---
+example data:
+  - "-4836"
+  - "-2840"
+  - "782"
 aliases:
   - M.
 date created: Friday, September 26th 2025, 12:50:11 pm
 ---
-> [!info] I do not know what this is
-> the values range from -4638 to 504 (note: 504 is the only positive value)
+> [!info] Calibrated age (to 2σ)
+> Values in the ‘from 2σ’ column represent the lower bound of the two–standard-deviation (95%) uncalibrated radiocarbon age range reported by the laboratory.
 
 ![[Radiocarbon data column M.png]]
 
