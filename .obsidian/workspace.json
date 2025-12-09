@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -207,7 +207,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "18ce8527889efde0",
+  "active": "a59e8941287a9711",
   "lastOpenFiles": [
     "content/Radiocarbon Data mapping/index.md",
     "content/Radiocarbon Data mapping/K. from 1σ.md",
