@@ -3,7 +3,7 @@
 To run locally, run npm install then:
 
 ```
-npx quartz build --serve
+npx quartz build --serve --watch
 ```
 
 Otherwise, just push to GitHub and CI will build & deploy the HTML.
