@@ -1,7 +1,8 @@
 ---
-title: Custom OG Images
+date created: Monday, December 8th 2025, 2:50:40 pm
 tags:
   - feature/emitter
+title: Custom OG Images
 ---
 
 The Custom OG Images emitter plugin generates social media preview images for your pages. It uses [satori](https://github.com/vercel/satori) to convert HTML/CSS into images, allowing you to create beautiful and consistent social media preview cards for your content.
