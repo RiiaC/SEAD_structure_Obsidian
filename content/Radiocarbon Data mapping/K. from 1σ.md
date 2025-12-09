@@ -7,7 +7,7 @@ aliases:
   - K.
 date created: Friday, September 26th 2025, 12:50:11 pm
 ---
-> [!info] Calibrated age (from 1σ)
+> [!info] Calibrated age (from 1σ), given in years BCE
 >  Values in the ‘from 1σ’ column represent the lower bound of the calibrated age at one–standard-deviation (68%) calculated from the uncalibrated radiocarbon age range reported by the laboratory (column [[F. BP|F.]]).
 
 

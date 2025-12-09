@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Radiocarbon Data mapping/O. Source.md",
-                "mode": "preview",
+                "file": "content/Radiocarbon Data mapping/N.to 2σ.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "O. Source"
+              "title": "N.to 2σ"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Radiocarbon Data mapping/O. Source.md",
+                "file": "content/Radiocarbon Data mapping/N.to 2σ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of O. Source"
+              "title": "Outline of N.to 2σ"
             }
           },
           {
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/Radiocarbon Data mapping/O. Source.md"
+                "file": "content/Radiocarbon Data mapping/N.to 2σ.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for O. Source"
+              "title": "File properties for N.to 2σ"
             }
           }
         ],
@@ -246,12 +246,13 @@
       }
     ]
   },
-  "active": "a59e8941287a9711",
+  "active": "611ab278c0e31fe6",
   "lastOpenFiles": [
-    "content/Radiocarbon Data mapping/N.to 2σ.md",
-    "content/Radiocarbon Data mapping/L. to 1σ.md",
     "content/Radiocarbon Data mapping/M.from 2σ.md",
+    "content/Radiocarbon Data mapping/L. to 1σ.md",
     "content/Radiocarbon Data mapping/K. from 1σ.md",
+    "content/Radiocarbon Data mapping/O. Source.md",
+    "content/Radiocarbon Data mapping/N.to 2σ.md",
     "content/Radiocarbon Data mapping/J. ±.md",
     "content/Radiocarbon Data mapping/index.md",
     "public/-4556.html",
@@ -273,7 +274,6 @@
     "content/Radiocarbon Data mapping/A. Map Fig.1.md",
     "public/A..html",
     "public/O..html",
-    "content/Radiocarbon Data mapping/O. Source.md",
     "docs/configuration.md",
     "public/index-og-image.webp",
     "public/SEAD/index-og-image.webp",
