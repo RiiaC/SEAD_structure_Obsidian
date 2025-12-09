@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
-                "mode": "source",
+                "file": "content/Radiocarbon Data mapping/A. Map Fig.1.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tbl_analysis_entity_ages"
+              "title": "A. Map Fig.1"
             }
           }
         ]
@@ -207,8 +207,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "a59e8941287a9711",
+  "active": "611ab278c0e31fe6",
   "lastOpenFiles": [
+    "content/SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
     "content/Radiocarbon Data mapping/index.md",
     "content/Radiocarbon Data mapping/K. from 1σ.md",
     "Unconfirmed 892642.crdownload",
