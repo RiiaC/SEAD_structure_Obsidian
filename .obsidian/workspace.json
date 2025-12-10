@@ -11,14 +11,10 @@
             "id": "611ab278c0e31fe6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -192,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 438.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +205,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "611ab278c0e31fe6",
+  "active": "412da4daf9dfda17",
   "lastOpenFiles": [
+    "source/README.md",
     "public/tags",
     "public/Radiocarbon-Data-mapping",
     "public",
@@ -237,7 +236,6 @@
     "content/Radiocarbon Data mapping/E. Lab nr.md",
     "content/Radiocarbon Data mapping/D. Site.md",
     "public/H..html",
-    "public/G..html",
     "content/Radiocarbon Data mapping/C. Biological Age.md",
     "content/Radiocarbon Data mapping/B. Element.md",
     "docs/configuration.md",

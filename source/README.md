@@ -1,3 +1,6 @@
+---
+date created: Wednesday, December 3rd 2025, 6:36:14 pm
+---
 # Quartz notebook
 
 To run locally, run npm install then:
