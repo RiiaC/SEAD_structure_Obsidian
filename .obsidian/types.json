@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "example data": "multitext",
-    "best matched column": "multitext"
+    "best matched column": "multitext",
+    "example_data": "multitext"
   }
 }

@@ -1,5 +1,5 @@
 ---
-example data:
+example_data:
   - "-16.3"
   - "-14.5"
   - "-18.8"

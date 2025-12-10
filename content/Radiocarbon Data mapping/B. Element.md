@@ -1,5 +1,5 @@
 ---
-example data:
+example_data:
   - Phalanx
   - Femur
   - Mandibula 

@@ -1,5 +1,5 @@
 ---
-example data:
+example_data:
   - Hela-1329
   - Ua-50229
   - LuS-6133

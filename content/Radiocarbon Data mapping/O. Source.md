@@ -1,5 +1,5 @@
 ---
-example data:
+example_data:
   - Bennike et al., 2008
   - Rundkvist et al., 2004
   - this study

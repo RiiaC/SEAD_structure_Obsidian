@@ -3,7 +3,7 @@ column_name: site_name
 data_type: character varying
 connected_tables:
   - "[[tbl_sites]]"
-example data:
+example_data:
   - Onsala 327
   - kv. Galeasen
   - Valby

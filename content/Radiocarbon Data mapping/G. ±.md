@@ -1,5 +1,5 @@
 ---
-example data:
+example_data:
   - "60"
   - "38"
   - "100"

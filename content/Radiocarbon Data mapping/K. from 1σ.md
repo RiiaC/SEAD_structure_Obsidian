@@ -1,5 +1,5 @@
 ---
-example data:
+example_data:
   - "-4744"
   - "-2764"
   - "836"

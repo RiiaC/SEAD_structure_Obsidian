@@ -1,5 +1,5 @@
 ---
-example data:
+example_data:
   - Neustadt LA 156
   - Hemmor
   - Trørød
