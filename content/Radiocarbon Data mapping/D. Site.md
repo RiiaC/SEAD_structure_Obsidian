@@ -1,12 +1,12 @@
 ---
-example_data:
-  - Neustadt LA 156
-  - Hemmor
-  - Trørød
 best matched column: "[[site_name]]"
 aliases:
   - D.
 date created: Friday, September 26th 2025, 12:46:49 pm
+example_data:
+  - Neustadt LA 156
+  - Hemmor
+  - Trørød
 ---
 > [!info] The Site column 
 > Contains the names of the archaeological sites which contributed samples to the project. 

@@ -16,6 +16,20 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "2cfd5f86de7ded38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Radiocarbon Data mapping/C. Biological Age.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "C. Biological Age"
+            }
           }
         ]
       }
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,12 +198,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 438.5,
-    "collapsed": true
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +217,21 @@
       "templates:Insert template": false
     }
   },
-  "active": "412da4daf9dfda17",
+  "active": "611ab278c0e31fe6",
   "lastOpenFiles": [
+    "content/SEAD/Tables/Ecocode/tbl_ecocode_definitions.md",
+    "Not_plotted/date_updated.md",
+    "content/SEAD/Tables/Provenance/tbl_methods.md",
+    "content/Radiocarbon Data mapping/C. Biological Age.md",
+    "content/SEAD/Tables/Taxa Counts/tbl_abundance_modifications.md",
+    "content/SEAD/Columns/abundance_modification_id.md",
+    "content/SEAD/Tables/Taxa Counts/tbl_abundance_ident_levels.md",
+    "content/SEAD/Columns/abundance_id.md",
+    "content/SEAD/Columns/method_id.md",
+    "content/Radiocarbon Data mapping/E. Lab nr.md",
+    "content/SEAD/Columns/sampling_context_id.md",
+    "content/Radiocarbon Data mapping/D. Site.md",
+    "content/Radiocarbon Data mapping/A. Map Fig.1.md",
     "source/README.md",
     "public/tags",
     "public/Radiocarbon-Data-mapping",
@@ -217,7 +242,6 @@
     "quartz/components/FrontmatterPropertiesBox.ys",
     "docs/index.md",
     "README.md",
-    "content/Radiocarbon Data mapping/A. Map Fig.1.md",
     "content/SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
     "content/Radiocarbon Data mapping/index.md",
     "content/Radiocarbon Data mapping/K. from 1σ.md",
@@ -230,15 +254,7 @@
     "content/Radiocarbon Data mapping/J. ±.md",
     "public/-4556.html",
     "content/Radiocarbon Data mapping/I. R(t).md",
-    "content/Radiocarbon Data mapping/F. BP.md",
-    "content/Radiocarbon Data mapping/H. δ13C.md",
-    "content/Radiocarbon Data mapping/G. ±.md",
-    "content/Radiocarbon Data mapping/E. Lab nr.md",
-    "content/Radiocarbon Data mapping/D. Site.md",
     "public/H..html",
-    "content/Radiocarbon Data mapping/C. Biological Age.md",
-    "content/Radiocarbon Data mapping/B. Element.md",
-    "docs/configuration.md",
     "public/index-og-image.webp",
     "public/SEAD/index-og-image.webp",
     "public/SEAD/Tables/sSample/tbl_sample_types-og-image.webp",
@@ -248,10 +264,6 @@
     "public/SEAD/Tables/sSample/tbl_sample_images-og-image.webp",
     "public/SEAD/Tables/sSample/tbl_sample_horizons-og-image.webp",
     "public/SEAD/Tables/sSample/tbl_sample_dimensions-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_descriptions-og-image.webp",
-    "docs/plugins/ContentPage.md",
-    "docs/plugins/CustomOgImages.md",
-    "docs/features/social images.md",
-    "content/SEAD/Tables/Provenance/tbl_methods.md"
+    "public/SEAD/Tables/sSample/tbl_sample_descriptions-og-image.webp"
   ]
 }

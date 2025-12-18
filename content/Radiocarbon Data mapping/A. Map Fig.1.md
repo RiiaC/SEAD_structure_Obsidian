@@ -1,13 +1,13 @@
 ---
-example_data:
-  - "1"
-  - "2"
-  - "3"
 best matched column:
   - n/a
 aliases:
   - A.
 date created: Monday, September 22nd 2025, 2:24:16 pm
+example_data:
+  - "1"
+  - "2"
+  - "3"
 ---
 > [!info]  The __ column
 > Contains...
