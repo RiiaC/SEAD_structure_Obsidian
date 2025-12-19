@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9fccadfd5de7bf2b",
+        "id": "022bf7727d5158b7",
         "type": "tabs",
         "children": [
           {
-            "id": "611ab278c0e31fe6",
+            "id": "d8525270cc889169",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Columns/abundance_element_id.md",
-                "mode": "preview",
+                "file": "content/Radiocarbon Data mapping/B. Element.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "abundance_element_id"
-            }
-          },
-          {
-            "id": "2cfd5f86de7ded38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Radiocarbon Data mapping/C. Biological Age.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "C. Biological Age"
+              "title": "B. Element"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "record_type",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/SEAD/Tables/Ages/tbl_analysis_entity_ages.md"
+                "file": "content/Radiocarbon Data mapping/B. Element.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for tbl_analysis_entity_ages"
+              "title": "File properties for B. Element"
             }
           }
         ],
@@ -222,15 +207,96 @@
       "templates:Insert template": false
     }
   },
-  "active": "611ab278c0e31fe6",
+  "floating": {
+    "id": "96031ba15f5597ba",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ca969df7d6eb1125",
+        "type": "window",
+        "children": [
+          {
+            "id": "b6e63bad2d339e92",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "611ab278c0e31fe6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "tbl_record_types"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1844,
+        "y": 68,
+        "width": 1037,
+        "height": 1352,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "3796c9f269b66e09",
+        "type": "window",
+        "children": [
+          {
+            "id": "8041db2d26620c7e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2cfd5f86de7ded38",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "tbl_abundance_elements"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2316,
+        "y": 140,
+        "width": 1037,
+        "height": 1352,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a59e8941287a9711",
   "lastOpenFiles": [
     "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
-    "content/SEAD/Columns/record_type_id.md",
+    "content/Radiocarbon Data mapping/B. Element.md",
+    "content/Radiocarbon Data mapping/D. Site.md",
+    "content/SEAD/Columns/element_name.md",
     "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
+    "content/SEAD/Columns/record_type_id.md",
+    "content/SEAD/Columns/abundance_element_id.md",
+    "content/SEAD/Tables/Taxa Counts/tbl_abundances.md",
+    "content/SEAD/Columns/abundance_id.md",
+    "content/SEAD/Columns/abundance.md",
+    "content/SEAD/Columns/element_description.md",
+    "content/SEAD/Columns/taxon_id.md",
+    "content/SEAD/Tables/Analysis Values/tbl_analysis_taxon_counts.md",
+    "content/SEAD/Columns/analysis_taxon_count_id.md",
     "content/SEAD/Columns/record_type_name.md",
     "Not_plotted/date_updated.md",
-    "content/SEAD/Columns/abundance_element_id.md",
-    "content/Radiocarbon Data mapping/B. Element.md",
     "content/Radiocarbon Data mapping/A. Map Fig.1.md",
     "content/Radiocarbon Data mapping/index.md",
     "content/SEAD/Tables/Ecocode/tbl_ecocode_definitions.md",
@@ -239,12 +305,8 @@
     "content/SEAD/Tables/Taxa Counts/tbl_abundance_modifications.md",
     "content/SEAD/Columns/abundance_modification_id.md",
     "content/SEAD/Tables/Taxa Counts/tbl_abundance_ident_levels.md",
-    "content/SEAD/Columns/abundance_id.md",
     "content/SEAD/Columns/method_id.md",
     "content/Radiocarbon Data mapping/E. Lab nr.md",
-    "content/SEAD/Columns/sampling_context_id.md",
-    "content/Radiocarbon Data mapping/D. Site.md",
-    "source/README.md",
     "public/tags",
     "public/Radiocarbon-Data-mapping",
     "public",
@@ -252,12 +314,7 @@
     "quartz/components/FrontmatterPropertiesBox..tsx",
     "quartz/components/FrontmatterPropertiesBox..ts",
     "quartz/components/FrontmatterPropertiesBox.ys",
-    "docs/index.md",
-    "README.md",
-    "content/SEAD/Tables/Ages/tbl_analysis_entity_ages.md",
-    "content/Radiocarbon Data mapping/K. from 1σ.md",
     "Unconfirmed 892642.crdownload",
-    "content/index.md",
     "public/-4556.html",
     "public/H..html",
     "public/index-og-image.webp",
