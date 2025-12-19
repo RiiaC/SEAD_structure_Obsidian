@@ -14,11 +14,21 @@
               "type": "markdown",
               "state": {
                 "file": "content/Radiocarbon Data mapping/B. Element.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "B. Element"
+            }
+          },
+          {
+            "id": "b472324272d47e8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -279,10 +290,10 @@
       }
     ]
   },
-  "active": "a59e8941287a9711",
+  "active": "d8525270cc889169",
   "lastOpenFiles": [
-    "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
     "content/Radiocarbon Data mapping/B. Element.md",
+    "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
     "content/Radiocarbon Data mapping/D. Site.md",
     "content/SEAD/Columns/element_name.md",
     "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
