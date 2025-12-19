@@ -18,6 +18,9 @@ example_data:
 - **system_id** This column is filled incrementally, starting with 1 and is used during the import process to keep track of the data in this sheet, and to cross-reference its connections to the other sheets.
 - **[[site_id]]** copy this information from the system_id numbers of the sites sheet (even if a given site already has a SEAD site_id). *(If it helps to keep track of which ones have been done, you can also add a column to show the corresponding **site_name** on this sheet, but it is not needed for the import process, this column is enough to connect the information for the relational part of the database.)*
 - **[[sampling_context_id]]** Fill in the appropriate number that describes the context in which the samples were collected (e.g. 1  =  Archaeological site, 2 = Other modern... 5 = Stratigraphic sequence, etc.)
+
+>[!warning] finish filling in this page from here
+
 - **[[method_id]]**
 - **sample_group_name**
 - **sample_group_description**

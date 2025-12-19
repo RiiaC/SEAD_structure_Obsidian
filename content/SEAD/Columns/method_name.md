@@ -3,11 +3,12 @@ column_name: method_name
 data_type: character varying
 connected_tables:
   - "[[tbl_methods]]"
+date created: Friday, September 19th 2025, 3:37:17 pm
 ---
 
 Full name of the analysis method.
 
-[[method_id]]	method_name
+method_id	method_name
 3	Palaeoentomology
 6	Chironomid analyses
 8	Plant macrofossil analyses

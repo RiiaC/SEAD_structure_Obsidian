@@ -23,7 +23,7 @@ date created: Friday, September 19th 2025, 3:37:16 pm
 
 Specifies the preparation method related to the analysis entity.
 
-method_id	[[method_name]]
+method_id	method_name
 3	Palaeoentomology
 6	Chironomid analyses
 8	Plant macrofossil analyses

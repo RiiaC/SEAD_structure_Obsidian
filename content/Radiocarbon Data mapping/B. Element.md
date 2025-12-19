@@ -44,6 +44,9 @@ example_data:
 - **[[taxon_id]]** This specifies the taxonomic unit related to this record, where **taxon_id = 1 = sp.**, and is the value assumed for this data set when the initial mapping was done.
 - **[[analysis_entity_id]]**
 - **[[abundance_element_id]]** copy this information from the **system_id** numbers of the **abundance_elements** sheet. (If it helps to keep track of which ones have been done, you can also add a column to show the corresponding element_name on this sheet, but it is not needed for the import process, this column is enough to connect the information for the relational part of the database.)
+
+>[!warning] finish filling in this page from here
+
 - **[[abundance	date_updated]]**
 - **[[abundance_id]]**
 
