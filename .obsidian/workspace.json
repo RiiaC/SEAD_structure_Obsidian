@@ -11,24 +11,24 @@
             "id": "b472324272d47e8e",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Radiocarbon Data mapping/0. Datset.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "0. Datset"
+            }
+          },
+          {
+            "id": "58534ae8747e5551",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "86124853c2306942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/SEAD/Tables/Dataset/tbl_data_types.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "tbl_data_types"
             }
           }
         ],
@@ -191,11 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "content/SEAD/Tables/Dataset/tbl_data_types.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for tbl_data_types"
+              "title": "File properties"
             }
           }
         ],
@@ -309,30 +307,45 @@
                   "icon": "lucide-file",
                   "title": "tbl_data_type_groups"
                 }
+              },
+              {
+                "id": "86124853c2306942",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/SEAD/Tables/Dataset/tbl_data_types.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "tbl_data_types"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 1788,
-        "y": 26,
-        "width": 1464,
-        "height": 839,
+        "x": 1715,
+        "y": 0,
+        "width": 1725,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "86124853c2306942",
+  "active": "58534ae8747e5551",
   "lastOpenFiles": [
-    "content/SEAD/Tables/Ungrouped/tbl_data_type_groups.md",
+    "content/Radiocarbon Data mapping/0. Datset.md",
     "content/SEAD/Tables/Dataset/tbl_data_types.md",
+    "content/SEAD/Columns/data_type_id.md",
+    "content/SEAD/Tables/Ungrouped/tbl_data_type_groups.md",
     "content/Radiocarbon Data mapping/D. Site.md",
     "content/SEAD/Columns/data_type_group_id.md",
     "content/SEAD/Columns/data_type_group_name.md",
     "content/Radiocarbon Data mapping/B. Element.md",
-    "content/Radiocarbon Data mapping/0. Datset.md",
-    "content/SEAD/Columns/data_type_id.md",
     "content/Radiocarbon Data mapping/O. Source.md",
     "content/Radiocarbon Data mapping/H. δ13C.md",
     "content/Radiocarbon Data mapping/F. BP.md",
