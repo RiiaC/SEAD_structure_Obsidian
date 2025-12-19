@@ -1,14 +1,14 @@
 ---
-example_data:
-  - Bennike et al., 2008
-  - Rundkvist et al., 2004
-  - this study
 best matched column:
   - "[[authors]]"
   - "[[year]]"
 aliases:
   - O.
 date created: Friday, September 26th 2025, 12:51:21 pm
+example_data:
+  - Bennike et al., 2008
+  - Rundkvist et al., 2004
+  - this study
 ---
 > [!info] The Source column
 > Gives a citation for each sample in the form of author-date or cites "this study" 
