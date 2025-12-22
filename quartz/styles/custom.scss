@@ -9,7 +9,7 @@
 
 /* Scope heading sizes to the main content area to increase specificity */
 :where(.page, .content, .content-container) :where(article, .markdown) h1 {
-  font-size: 1.37em;            /* your desired H1 size */
+  font-size: 1.28em;            /* your desired H1 size */
   line-height: 1.25;
 }
 

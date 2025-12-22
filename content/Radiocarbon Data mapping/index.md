@@ -23,7 +23,7 @@ Here follows a list of the SEAD tables to which these columns have been mapped, 
 - [[O. Source#biblio]]
 - [[O. Source#site references]]
 ## The columns of this dataset
-Below is the list of the columns appearing in this data set. Clicking on a column name from the list below will show you how it is mapped to the SEAD database structure.
+Below is the list of all of the columns appearing in this data set. Clicking on a column name from the list below will show you how it is mapped to the SEAD database structure.
 
 
 
