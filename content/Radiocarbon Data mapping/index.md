@@ -2,10 +2,11 @@
 date created: Monday, September 22nd 2025, 2:09:42 pm
 title: Radiocarbon Data mapping
 ---
+# Welcome to The Raidocarbon Data Mapping section of this web page
 >[!info] This folder contains information pertaining to the ongoing mapping of the Radiocarbon data set to the SEAD database structure. 
 
 The mapping is being undertaken in a spreadsheet called radiocarbon_Glykou_etal_2021_input.xlsx, and this folder contains one file for each of the columns in the first tab (**a1_radiocarbon_data tab**) of that spreadsheet.
-# The mapped SEAD tables used for this dataset
+## The mapped SEAD tables used for this dataset
 Here follows a list of the SEAD tables to which these columns have been mapped, so far, with links to their mapping notes:
 
 - [[0. Datset#datasets]]
@@ -21,7 +22,7 @@ Here follows a list of the SEAD tables to which these columns have been mapped, 
 - [[E. Lab nr#physical samples]]
 - [[O. Source#biblio]]
 - [[O. Source#site references]]
-# The columns of this dataset
+## The columns of this dataset
 
 >[!tips] Below is the list of the columns appearing in this data set
 >Clicking on a column name from the list below will show you how it is mapped to the SEAD database structure.

@@ -1,3 +1,10 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+
+/* Define custom heading sizes similar to your Obsidian snippet */
+h1 { font-size: 1.37em; }
+h2 { font-size: 1.32em; }
+h3 { font-size: 1.27em; }
+h4 { font-size: 1.22em; }
+h5 { font-size: 1.17em; }
+h6 { font-size: 1.12em; }
