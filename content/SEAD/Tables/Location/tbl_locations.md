@@ -10,6 +10,7 @@ columns:
   - "[[location_name]]"
 connected_tables:
   - "[[tbl_location_types]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 
 Represents geographical locations, typically defined by regions. These can be current or historical locations.
