@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD/Columns/location_id.md",
+                "file": "content/Radiocarbon Data mapping/D. Site.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "location_id"
+              "title": "D. Site"
             }
           }
         ],
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/SEAD/Columns/location_id.md",
+                "file": "content/Radiocarbon Data mapping/D. Site.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for location_id"
+              "title": "Backlinks for D. Site"
             }
           },
           {
@@ -220,6 +220,7 @@
   },
   "active": "a59e8941287a9711",
   "lastOpenFiles": [
+    "content/SEAD/Columns/location_id.md",
     "content/SEAD/Tables/Location/tbl_locations.md",
     "content/SEAD/Columns/location_name.md",
     "content/SEAD/Columns/location_type_id.md",
@@ -245,7 +246,6 @@
     "content/Radiocarbon Data mapping/C. Biological Age.md",
     "content/SEAD/Columns/project_id.md",
     "content/SEAD/Tables/Project/tbl_projects.md",
-    "content/SEAD/Columns/method_id.md",
     "public/tags",
     "public/Radiocarbon-Data-mapping",
     "public",
