@@ -10,7 +10,7 @@ example_data:
   - Mandibula
 ---
 > [!info] Element 
-> Lists the type of bone upon which analysis was performed (e.g. Femur, Mandibula, Humerus, etc.). 
+> Each type of thing being analysed in a dataset is an element. Is it a leaf, a bone? Since this dataset is radiocarbon data for analysis of bones, this is where we specify which type of bones were analysed (e.g. Femur, Mandibula, Humerus, etc.). 
 
 ![[Radiocarbon data column B.png]]
 
@@ -46,16 +46,27 @@ example_data:
 > [!tips]+ Each element has experienced one or more types of analysis that led to the dataset which we need to define
 - [ ] create and fill in a sheet called  **tbl_analysis_entities**  in the  [radiocarbon_Glykou_etal_2021_input.xlsx spreadsheet]([radiocarbon_Glykou_etal_2021_input.xlsx](https://umeauniversity.sharepoint.com/:x:/r/sites/SEAD72/Shared%20Documents/Task%20force%20-%20System%20analysis%20of%20radiocarbon%20data/Datasets/AFL/input-data/radiocarbon_Glykou_etal_2021_input.xlsx?d=w34fa6e11a37c4afe9398f92ea68bd11c&csf=1&web=1&e=LaDqOd))  spreadsheet with the following columns
 - **system_id** This column is filled incrementally, starting with 1 and is used during the import process to keep track of the data in this sheet, and to cross-reference its connections to the other sheets.
-- **[[physical_sample_id]]** 
-- **[[dataset_id]]**
-- **[[analysis_entity_id]]**
-
 
 
 >[!warning] finish filling in this page from here
 
+
+- **[[physical_sample_id]]** 
+- **[[dataset_id]]**
+- **[[analysis_entity_id]]**
 - **[[abundance	date_updated]]**
 - **[[abundance_id]]**
+# physical samples
+> [!tips]+ now that they type of sample has been defined, we describe the rest of of the information about the physical samples
+- [ ] create and fill in a sheet called  **physical samples**  in the  [radiocarbon_Glykou_etal_2021_input.xlsx spreadsheet]([radiocarbon_Glykou_etal_2021_input.xlsx](https://umeauniversity.sharepoint.com/:x:/r/sites/SEAD72/Shared%20Documents/Task%20force%20-%20System%20analysis%20of%20radiocarbon%20data/Datasets/AFL/input-data/radiocarbon_Glykou_etal_2021_input.xlsx?d=w34fa6e11a37c4afe9398f92ea68bd11c&csf=1&web=1&e=LaDqOd))  spreadsheet with the following columns
+- **system_id** This column is filled incrementally, starting with 1 and is used during the import process to keep track of the data in this sheet, and to cross-reference its connections to the other sheets.
+- [[sample_group_id]]
+- [[alt_ref_type_id]]
+- [[sample_type_id]]
+- [[sample_name]]
+- [[date_sampled]]
+- [[physical_sample_id]]
+
 
 
 
