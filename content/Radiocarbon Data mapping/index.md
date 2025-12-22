@@ -13,6 +13,10 @@ Here follows a list of the tables to which these columns have been mapped, so fa
 - [[0. Datset#contacts]]
 - [[B. Element#abundance elements]]
 - [[B. Element#abundances]]
+- [[B. Element#analysis entities]]
+- [[D. Site#sites]] 
+- [[D. Site#locations]]
+- [[D. Site#site locations]]
 - 
 
 
