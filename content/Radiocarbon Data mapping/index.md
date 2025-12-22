@@ -18,7 +18,7 @@ Here follows a list of the SEAD tables to which these columns have been mapped, 
 - [[D. Site#locations]]
 - [[D. Site#site locations]]
 - [[E. Lab nr#sample groups]]
-- [[E. Lab nr#]]
+- [[E. Lab nr#physical samples]]
 - [[O. Source#biblio]]
 - [[O. Source#site references]]
 # The columns of this dataset
