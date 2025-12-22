@@ -11,14 +11,10 @@
             "id": "b472324272d47e8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Radiocarbon Data mapping/0. Datset.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "0. Datset"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -27,16 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Radiocarbon Data mapping/O. Source.md",
-                "mode": "source",
+                "file": "content/Radiocarbon Data mapping/D. Site.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "O. Source"
+              "title": "D. Site"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,127 +217,14 @@
       "templates:Insert template": false
     }
   },
-  "floating": {
-    "id": "96031ba15f5597ba",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ca969df7d6eb1125",
-        "type": "window",
-        "children": [
-          {
-            "id": "b6e63bad2d339e92",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "611ab278c0e31fe6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "tbl_record_types"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1844,
-        "y": 40,
-        "width": 1037,
-        "height": 1352,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "3796c9f269b66e09",
-        "type": "window",
-        "children": [
-          {
-            "id": "8041db2d26620c7e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2cfd5f86de7ded38",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "tbl_abundance_elements"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2316,
-        "y": 40,
-        "width": 1037,
-        "height": 1352,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "1a7abf879e55dfbf",
-        "type": "window",
-        "children": [
-          {
-            "id": "8eee1bc30c8312ad",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d8525270cc889169",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/SEAD/Tables/Ungrouped/tbl_data_type_groups.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "tbl_data_type_groups"
-                }
-              },
-              {
-                "id": "86124853c2306942",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "content/SEAD/Tables/Dataset/tbl_data_types.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "tbl_data_types"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1715,
-        "y": 0,
-        "width": 1725,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d8525270cc889169",
+  "active": "b472324272d47e8e",
   "lastOpenFiles": [
+    "content/Radiocarbon Data mapping/0. Datset.md",
+    "content/Radiocarbon Data mapping/D. Site.md",
+    "content/Radiocarbon Data mapping/O. Source.md",
+    "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
+    "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
+    "content/SEAD/Tables/Ungrouped/tbl_data_type_groups.md",
     "content/Radiocarbon Data mapping/N.to 2σ.md",
     "content/Radiocarbon Data mapping/M.from 2σ.md",
     "content/Radiocarbon Data mapping/L. to 1σ.md",
@@ -353,10 +235,8 @@
     "content/Radiocarbon Data mapping/G. ±.md",
     "content/Radiocarbon Data mapping/F. BP.md",
     "content/Radiocarbon Data mapping/E. Lab nr.md",
-    "content/Radiocarbon Data mapping/D. Site.md",
     "content/Radiocarbon Data mapping/C. Biological Age.md",
     "content/Radiocarbon Data mapping/B. Element.md",
-    "content/Radiocarbon Data mapping/0. Datset.md",
     "content/SEAD/Columns/project_id.md",
     "content/SEAD/Tables/Project/tbl_projects.md",
     "content/SEAD/Columns/method_id.md",
@@ -365,10 +245,6 @@
     "content/SEAD/Tables/Dataset/tbl_dataset_methods.md",
     "content/SEAD/Tables/Dataset/tbl_data_types.md",
     "content/SEAD/Columns/data_type_id.md",
-    "content/SEAD/Tables/Ungrouped/tbl_data_type_groups.md",
-    "content/SEAD/Columns/data_type_group_id.md",
-    "content/SEAD/Columns/data_type_group_name.md",
-    "content/Radiocarbon Data mapping/O. Source.md",
     "public/tags",
     "public/Radiocarbon-Data-mapping",
     "public",
