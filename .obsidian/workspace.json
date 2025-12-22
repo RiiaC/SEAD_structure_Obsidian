@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b472324272d47e8e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "58534ae8747e5551",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "B. Element"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,13 +207,65 @@
       "templates:Insert template": false
     }
   },
+  "floating": {
+    "id": "4d5453a131dc244c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8405939f2dea3e89",
+        "type": "window",
+        "children": [
+          {
+            "id": "9446c88130489502",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b472324272d47e8e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/Radiocarbon Data mapping/E. Lab nr.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "E. Lab nr"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1708,
+        "y": 0,
+        "width": 1732,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "58534ae8747e5551",
   "lastOpenFiles": [
-    "content/Radiocarbon Data mapping/0. Datset.md",
+    "content/Radiocarbon Data mapping/E. Lab nr.md",
     "content/Radiocarbon Data mapping/B. Element.md",
+    "content/SEAD/Columns/physical_sample_id.md",
+    "content/SEAD/Tables/sSample/tbl_physical_samples.md",
+    "content/SEAD/Columns/sample_name.md",
+    "content/Radiocarbon Data mapping/0. Datset.md",
     "content/SEAD/Columns/element_name.md",
     "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
-    "content/SEAD/Columns/physical_sample_id.md",
     "content/SEAD/Columns/dataset_id.md",
     "content/SEAD/Columns/analysis_entity_id.md",
     "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
@@ -233,7 +274,6 @@
     "content/SEAD/Tables/Dataset/tbl_dataset_masters.md",
     "content/SEAD/Columns/url.md",
     "content/SEAD/Tables/Ungrouped/tbl_contacts.md",
-    "content/Radiocarbon Data mapping/E. Lab nr.md",
     "content/Radiocarbon Data mapping/D. Site.md",
     "content/SEAD/Columns/location_id.md",
     "content/SEAD/Tables/Location/tbl_locations.md",
@@ -244,8 +284,6 @@
     "content/SEAD/Tables/Ungrouped/tbl_record_types.md",
     "content/SEAD/Tables/Ungrouped/tbl_data_type_groups.md",
     "content/Radiocarbon Data mapping/N.to 2σ.md",
-    "content/Radiocarbon Data mapping/M.from 2σ.md",
-    "content/Radiocarbon Data mapping/L. to 1σ.md",
     "public/tags",
     "public/Radiocarbon-Data-mapping",
     "public",
