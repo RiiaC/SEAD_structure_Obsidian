@@ -24,7 +24,7 @@ Here follows a list of the SEAD tables to which these columns have been mapped, 
 # The columns of this dataset
 
 >[!tips] Below is the list of the columns appearing in this data set
->Clicking on each will show you how it is mapped to the SEAD database structure.
+>Clicking on a column name from the list below will show you how it is mapped to the SEAD database structure.
 
 
 
