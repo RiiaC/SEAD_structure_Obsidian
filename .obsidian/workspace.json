@@ -328,8 +328,7 @@
                   "title": "tbl_data_types"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -342,7 +341,7 @@
       }
     ]
   },
-  "active": "58534ae8747e5551",
+  "active": "d8525270cc889169",
   "lastOpenFiles": [
     "content/Radiocarbon Data mapping/N.to 2σ.md",
     "content/Radiocarbon Data mapping/M.from 2σ.md",
