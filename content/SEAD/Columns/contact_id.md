@@ -10,6 +10,7 @@ connected_tables:
   - "[[tbl_dating_labs]]"
   - "[[tbl_site_images]]"
   - "[[tbl_taxa_reference_specimens]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 
 Identifies the contact person or organization for the chronology.
