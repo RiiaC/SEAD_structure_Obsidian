@@ -17,10 +17,14 @@ Here follows a list of the tables to which these columns have been mapped, so fa
 - [[D. Site#sites]] 
 - [[D. Site#locations]]
 - [[D. Site#site locations]]
-- 
+- [[E. Lab nr#sample groups]]
+- [[E. Lab nr#]]
+- [[O. Source#biblio]]
+- [[O. Source#site references]]
 
 
->[!tips] Click on each of the links to the the individual columns
-to get a description of the data in that column, and how (if) it is (yet) mapped to SEAD in the form of links to many other sheets in the spreadsheet.
+>[!tips] Below is the list of the columns appearing in this data set
+>Clicking on each will show you how it is mapped to the SEAD database structure.
+
 
 

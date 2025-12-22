@@ -10,6 +10,7 @@ columns:
 connected_tables:
   - "[[tbl_biblio]]"
   - "[[tbl_sites]]"
+date created: Friday, September 19th 2025, 3:37:16 pm
 ---
 
 Catalogs publications that describe or mention sites. Publications related to specific sample groups, physical samples, or datasets are documented at their respective hierarchical levels.
