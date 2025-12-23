@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Radiocarbon Data mapping/index.md",
+                "file": "content/SEAD Glossary.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "SEAD Glossary"
             }
           }
         ]
@@ -237,7 +237,7 @@
                   "state": {
                     "file": "content/Radiocarbon Data mapping/index.md",
                     "mode": "source",
-                    "source": false,
+                    "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -261,7 +261,7 @@
                   "state": {
                     "file": "content/Radiocarbon Data mapping/0. Datset.md",
                     "mode": "source",
-                    "source": false,
+                    "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -285,7 +285,7 @@
                   "state": {
                     "file": "content/Radiocarbon Data mapping/B. Element.md",
                     "mode": "source",
-                    "source": false,
+                    "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -309,7 +309,7 @@
                   "state": {
                     "file": "content/Radiocarbon Data mapping/C. Biological Age.md",
                     "mode": "source",
-                    "source": false,
+                    "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -333,7 +333,7 @@
                   "state": {
                     "file": "content/Radiocarbon Data mapping/D. Site.md",
                     "mode": "source",
-                    "source": false,
+                    "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -357,7 +357,7 @@
                   "state": {
                     "file": "content/Radiocarbon Data mapping/E. Lab nr.md",
                     "mode": "source",
-                    "source": false,
+                    "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -381,7 +381,7 @@
                   "state": {
                     "file": "content/Radiocarbon Data mapping/F. BP.md",
                     "mode": "source",
-                    "source": false,
+                    "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -405,7 +405,7 @@
                   "state": {
                     "file": "content/SEAD/Tables/Site/tbl_site_references.md",
                     "mode": "source",
-                    "source": false,
+                    "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -431,20 +431,68 @@
         "height": 1392,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "f43eeecf81df1d7d",
+        "type": "window",
+        "children": [
+          {
+            "id": "4643b9a87348ff59",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7f3ecacaafed8327",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/Radiocarbon Data mapping/B. Element.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "B. Element"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1720,
+        "y": 0,
+        "width": 1720,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "58534ae8747e5551",
+  "active": "32862686a53ae703",
   "lastOpenFiles": [
+    "content/SEAD/Tables/Dataset/tbl_datasets.md",
+    "content/SEAD Glossary.md",
+    "content/SEAD/Columns/dataset_id.md",
+    "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
+    "content/SEAD/Columns/analysis_entity_id.md",
+    "content/Radiocarbon Data mapping/B. Element.md",
+    "content/Radiocarbon Data mapping/index.md",
     "content/Radiocarbon Data mapping/0. Datset.md",
     "content/SEAD/Tables/Site/tbl_site_references.md",
-    "content/Radiocarbon Data mapping/index.md",
     "content/Radiocarbon Data mapping/O. Source.md",
     "content/SEAD/Columns/site_reference_id.md",
     "content/Radiocarbon Data mapping/E. Lab nr.md",
     "content/Radiocarbon Data mapping/D. Site.md",
     "content/Radiocarbon Data mapping/C. Biological Age.md",
-    "content/Radiocarbon Data mapping/B. Element.md",
     "content/Radiocarbon Data mapping/F. BP.md",
     "content/Radiocarbon Data mapping/A. Map Fig.1.md",
     "content/SEAD/Columns/physical_sample_id.md",
@@ -452,16 +500,11 @@
     "content/SEAD/Columns/sample_name.md",
     "content/SEAD/Columns/element_name.md",
     "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
-    "content/SEAD/Columns/dataset_id.md",
-    "content/SEAD/Columns/analysis_entity_id.md",
-    "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
     "content/SEAD/Columns/contact_id.md",
     "content/SEAD/Columns/master_name.md",
     "content/SEAD/Tables/Dataset/tbl_dataset_masters.md",
     "content/SEAD/Columns/url.md",
     "content/SEAD/Tables/Ungrouped/tbl_contacts.md",
-    "content/SEAD/Columns/location_id.md",
-    "content/SEAD/Tables/Location/tbl_locations.md",
     "public/tags",
     "public/Radiocarbon-Data-mapping",
     "public",

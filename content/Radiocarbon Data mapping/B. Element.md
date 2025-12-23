@@ -50,7 +50,7 @@ example_data:
 >[!warning] finish filling in this page from here
 
 - **[[physical_sample_id]]** copy this information from the **system_id** numbers of the **physical samples** sheet (see the note for E. Lab nr). (If it helps to keep track of which ones have been done, you can also add a column to show the corresponding **sample_name** on this sheet, but it is not needed for the import process, this column is enough to connect the information for the relational part of the database.)
-- **[[dataset_id]]**
+- **[[dataset_id]]** copy this information from the **system_id** numbers of the **datasets** sheet (see the note for **0. Datset**).
 - **[[analysis_entity_id]]**
 - **[[abundance**]]
 - - **[[abundance_id]]**
