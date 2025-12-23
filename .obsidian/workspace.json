@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SEAD Glossary.md",
-                "mode": "source",
+                "file": "content/testing callout types.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SEAD Glossary"
+              "title": "testing callout types"
             }
           }
         ]
@@ -479,8 +479,30 @@
   },
   "active": "32862686a53ae703",
   "lastOpenFiles": [
-    "content/SEAD/Tables/Dataset/tbl_datasets.md",
+    "public/testing-callout-types-og-image.webp",
+    "public/index-og-image.webp",
+    "public/SEAD/index-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_types-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_notes-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_locations-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_location_types-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_images-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_horizons-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_dimensions-og-image.webp",
+    "public/SEAD/Tables/sSample/tbl_sample_descriptions-og-image.webp",
+    "public/testing-callout-types.html",
+    "public/index.html",
+    "public/SEAD/Tables/sSample/tbl_sample_types.html",
+    "public/SEAD/Tables/sSample/tbl_sample_notes.html",
+    "public/SEAD/Tables/sSample/tbl_sample_locations.html",
+    "public/SEAD/Tables/sSample/tbl_sample_location_types.html",
+    "public/SEAD/Tables/sSample/tbl_sample_images.html",
+    "public/SEAD/Tables/sSample/tbl_sample_horizons.html",
+    "public/SEAD/Tables/sSample/tbl_sample_dimensions.html",
+    "public/SEAD/Tables/sSample/tbl_sample_descriptions.html",
     "content/SEAD Glossary.md",
+    "content/testing callout types.md",
+    "content/SEAD/Tables/Dataset/tbl_datasets.md",
     "content/SEAD/Columns/dataset_id.md",
     "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",
     "content/SEAD/Columns/analysis_entity_id.md",
@@ -502,28 +524,6 @@
     "content/SEAD/Tables/Taxa Counts/tbl_abundance_elements.md",
     "content/SEAD/Columns/contact_id.md",
     "content/SEAD/Columns/master_name.md",
-    "content/SEAD/Tables/Dataset/tbl_dataset_masters.md",
-    "content/SEAD/Columns/url.md",
-    "content/SEAD/Tables/Ungrouped/tbl_contacts.md",
-    "public/tags",
-    "public/Radiocarbon-Data-mapping",
-    "public",
-    "quartz/components/FrontmatterPropertiesBox.tsx",
-    "quartz/components/FrontmatterPropertiesBox..tsx",
-    "quartz/components/FrontmatterPropertiesBox..ts",
-    "quartz/components/FrontmatterPropertiesBox.ys",
-    "Unconfirmed 892642.crdownload",
-    "public/-4556.html",
-    "public/H..html",
-    "public/index-og-image.webp",
-    "public/SEAD/index-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_types-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_notes-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_locations-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_location_types-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_images-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_horizons-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_dimensions-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_descriptions-og-image.webp"
+    "content/SEAD/Tables/Dataset/tbl_dataset_masters.md"
   ]
 }

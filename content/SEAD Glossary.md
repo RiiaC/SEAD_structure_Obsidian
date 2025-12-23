@@ -1,4 +1,10 @@
->[!info]+ This glossary was prepared in September 2025 by compiling the description information for tables exported from the SEAD database and supplementing that information with definitions of some of the terms used in those definitions. If you feel that any of these definitions need further clarification please send an [email to me at](mailto:Riia.Chmielowski@umu.se).
+---
+date created: Tuesday, December 23rd 2025, 7:48:31 am
+---
+>[!info]+ This glossary was prepared in September 2025 
+>by compiling the description information for tables exported from the SEAD database and supplementing that information with definitions of some of the terms used in those definitions. If you feel that any of these definitions need further clarification please send an [email to me](mailto:Riia.Chmielowski@umu.se).
+
+(*Note that at this time there are no links back to the tables themselves in this glossary. This is because I have not yet learned how to exclude links to a specific note from the Graph View, and if everything links to a single note, the graph just looks like a puff ball and loses its usefulness*.)
 
 
 |Term|relavant SEAD table (if any)|Definition|
