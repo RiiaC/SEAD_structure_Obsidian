@@ -477,8 +477,12 @@
       }
     ]
   },
-  "active": "0591dbc0f0571636",
+  "active": "32862686a53ae703",
   "lastOpenFiles": [
+    "Pasted image 20251223105059.png",
+    "content/images/testing callout types.png",
+    "public/images/testing-callout-types.png",
+    "Not_plotted/testing callout types.md",
     "public/testing-callout-types-og-image.webp",
     "public/index-og-image.webp",
     "public/SEAD/index-og-image.webp",
@@ -487,9 +491,6 @@
     "public/SEAD/Tables/sSample/tbl_sample_locations-og-image.webp",
     "public/SEAD/Tables/sSample/tbl_sample_location_types-og-image.webp",
     "public/SEAD/Tables/sSample/tbl_sample_images-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_horizons-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_dimensions-og-image.webp",
-    "public/SEAD/Tables/sSample/tbl_sample_descriptions-og-image.webp",
     "public/testing-callout-types.html",
     "public/index.html",
     "public/SEAD/Tables/sSample/tbl_sample_types.html",
@@ -501,7 +502,6 @@
     "public/SEAD/Tables/sSample/tbl_sample_dimensions.html",
     "public/SEAD/Tables/sSample/tbl_sample_descriptions.html",
     "content/SEAD Glossary.md",
-    "Not_plotted/testing callout types.md",
     "content/SEAD/Tables/Dataset/tbl_datasets.md",
     "content/SEAD/Columns/dataset_id.md",
     "content/SEAD/Tables/Dataset/tbl_analysis_entities.md",

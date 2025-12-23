@@ -1,7 +1,7 @@
 ---
 date created: Tuesday, December 23rd 2025, 9:17:11 am
 ---
-
+# the types of callouts
 These are all of the various types of callouts defined in the file [[quartz/styles/callouts.scss]] 
 
 >[!data-callout]+ data-callout
@@ -36,3 +36,7 @@ These are all of the various types of callouts defined in the file [[quartz/styl
 
 >[!example]+ example
 >looks like this (this one is still the default colour from Quartz)
+
+# photo of how this looks
+
+![[testing callout types.png]]
