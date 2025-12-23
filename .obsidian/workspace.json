@@ -237,7 +237,17 @@
                   "state": {
                     "file": "content/Radiocarbon Data mapping/index.md",
                     "mode": "source",
-                    "source": false
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
                   "title": "index"
@@ -424,7 +434,7 @@
       }
     ]
   },
-  "active": "32862686a53ae703",
+  "active": "58534ae8747e5551",
   "lastOpenFiles": [
     "content/Radiocarbon Data mapping/0. Datset.md",
     "content/SEAD/Tables/Site/tbl_site_references.md",
